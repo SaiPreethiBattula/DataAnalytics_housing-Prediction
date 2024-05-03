@@ -1,0 +1,851 @@
+Street,City,County,State,Zipcode,Price,WalkScore,Bike_Score,Beds,Bath,Sqft,Property_Type,Year_Built,Status
+38 sharon st unit a,San francisco,San-Francisco,Ca,94114,775000.0,99,95.0,1.0,1.0,651.0,Condo,1900.0,Active
+94 sussex st,San francisco,San-Francisco,Ca,94131,1575000.0,85,67.0,2.0,2.0,1625.0,Multi-family (2-4 unit),1900.0,Coming soon
+2152 16th ave,San francisco,San-Francisco,Ca,94116,1298000.0,81,44.0,4.0,3.0,1325.0,Single family residential,1938.0,Active
+45 pinehurst way,San francisco,San-Francisco,Ca,94127,1698000.0,87,57.0,3.0,1.0,1768.0,Single family home,1928.0,Active
+1830 fillmore st #311,San francisco,San-Francisco,Ca,94115,1098000.0,99,88.0,2.0,2.0,1107.0,Condo,1984.0,Active
+147 peralta ave,San francisco,San-Francisco,Ca,94110,3050000.0,91,75.0,4.0,3.0,2808.0,Single family home,1910.0,Active
+401 harrison st unit 25b,San francisco,San-Francisco,Ca,94105,1895000.0,94,57.0,2.0,2.0,1311.0,Condo,2014.0,Active
+64 waller st,San francisco,San-Francisco,Ca,94102,1495000.0,99,86.0,2.0,2.0,1690.0,Condo,1890.0,Active
+535 head st,San francisco,San-Francisco,Ca,94132,1249000.0,75,41.0,3.0,1.0,1214.0,Single family residential,1945.0,Active
+2231 24th ave,San francisco,San-Francisco,Ca,94116,1598000.0,88,44.0,3.0,2.0,1840.0,Single family residential,1941.0,Active
+729 congo st,San francisco,San-Francisco,Ca,94131,3410000.0,71,63.0,4.0,3.5,3215.0,Single family residential,2013.0,Active
+1457 hayes st,San francisco,San-Francisco,Ca,94117,1295000.0,97,91.0,2.0,2.0,1600.0,Condo,1900.0,Active
+140 south van ness ave #501,San francisco,San-Francisco,Ca,94103,1549000.0,97,99.0,3.0,2.0,1805.0,Condo,2002.0,Active
+3086 market st,San francisco,San-Francisco,Ca,94114,1595000.0,90,65.0,4.0,1.0,1275.0,Single family residential,1901.0,Active
+1600 webster st #201,San francisco,San-Francisco,Ca,94115,1575000.0,99,94.0,2.0,2.0,1305.0,Condo,2005.0,Active
+2295 vallejo st #402,San francisco,San-Francisco,Ca,94123,995000.0,99,56.0,1.0,1.0,660.0,Condo,1975.0,Active
+290 nevada st,San francisco,San-Francisco,Ca,94110,1695000.0,93,65.0,3.0,2.0,2000.0,Single family residential,1908.0,Active
+556 arch st,San francisco,San-Francisco,Ca,94132,1398000.0,72,50.0,3.0,2.0,1858.0,Single family residential,1927.0,Active
+2100 green st #302,San francisco,San-Francisco,Ca,94123,2595000.0,100,59.0,2.0,2.5,1850.0,Co-op,1927.0,Active
+601 van ness ave #10,San francisco,San-Francisco,Ca,94102,990000.0,98,99.0,2.0,2.5,1461.0,Condo,1982.0,Active
+1238 sutter st #405,San francisco,San-Francisco,Ca,94109,929000.0,99,82.0,2.0,1.0,689.0,Condo,2018.0,Active
+33 midway st #202,San francisco,San-Francisco,Ca,94133,949000.0,95,66.0,2.0,1.5,1008.0,Condo,1980.0,Active
+255 berry st #515,San francisco,San-Francisco,Ca,94158,1299000.0,88,93.0,2.0,2.0,1223.0,Condo,2004.0,Active
+80 teresita blvd,San francisco,San-Francisco,Ca,94127,1995000.0,67,61.0,3.0,2.0,2022.0,Single family residential,1937.0,Active
+860 brussels st,San francisco,San-Francisco,Ca,94134,959000.0,80,47.0,2.0,2.0,1125.0,Single family residential,1929.0,Active
+50 henry st,San francisco,San-Francisco,Ca,94114,1895000.0,99,91.0,3.0,2.0,1564.0,Condo,1904.0,Active
+926 douglass st,San francisco,San-Francisco,Ca,94114,1495000.0,87,58.0,3.0,2.0,1281.0,Single family residential,1950.0,Active
+1787 mcallister st #2,San francisco,San-Francisco,Ca,94115,899000.0,97,93.0,2.0,1.0,814.0,Condo,1967.0,Active
+228 lexington st,San francisco,San-Francisco,Ca,94110,1250000.0,99,95.0,2.0,1.0,1250.0,Condo,1906.0,Active
+3301 - 3311 cesar chavez st unit 3311a,San francisco,San-Francisco,Ca,94110,895000.0,97,74.0,2.0,2.0,1030.0,Condo,1905.0,Active
+926 goettingen st,San francisco,San-Francisco,Ca,94134,899000.0,67,41.0,2.0,1.0,836.0,Single family residential,1952.0,Active
+203 randall st,San francisco,San-Francisco,Ca,94131,999000.0,89,73.0,2.0,1.0,1003.0,Condo,1910.0,Active
+119 middlefield dr,San francisco,San-Francisco,Ca,94132,1499000.0,79,80.0,4.0,2.0,1815.0,Single family residential,1950.0,Active
+528 hearst ave,San francisco,San-Francisco,Ca,94112,1295000.0,81,70.0,2.0,1.0,1300.0,Single family residential,1923.0,Active
+2090 castro st,San francisco,San-Francisco,Ca,94131,3195000.0,85,57.0,5.0,3.0,2180.0,Single family residential,1978.0,Active
+442 14th st,San francisco,San-Francisco,Ca,94103,1188000.0,99,96.0,3.0,2.0,1304.0,Condo,1907.0,Active
+1360 - 1362 rhode island st,San francisco,San-Francisco,Ca,94107,1985000.0,85,75.0,3.0,3.0,2390.0,Multi-family (2-4 unit),1910.0,Active
+1631 25th ave,San francisco,San-Francisco,Ca,94122,1650000.0,86,76.0,3.0,3.0,2520.0,Single family residential,1928.0,Active
+718 long bridge st #1404,San francisco,San-Francisco,Ca,94158,2175000.0,82,93.0,2.0,2.0,1473.0,Condo,2016.0,Active
+57 whittier st,San francisco,San-Francisco,Ca,94112,998000.0,88,43.0,2.0,2.0,1148.0,Single family residential,1927.0,Active
+250 28th ave,San francisco,San-Francisco,Ca,94121,2700000.0,87,92.0,3.0,2.0,2070.0,Single family residential,1916.0,Active
+1826 keith st,San francisco,San-Francisco,Ca,94124,939000.0,89,68.0,3.0,1.0,1101.0,Single family residential,1955.0,Active
+555 4th st #649,San francisco,San-Francisco,Ca,94107,649000.0,96,89.0,1.0,1.0,632.0,Condo,2006.0,Active
+445 roosevelt way,San francisco,San-Francisco,Ca,94114,1799000.0,87,65.0,3.0,2.0,1505.0,Condo,1953.0,Active
+8 buchanan st #808,San francisco,San-Francisco,Ca,94102,1095000.0,99,86.0,2.0,2.0,989.0,Condo,2014.0,Active
+74 new montgomery st #412,San francisco,San-Francisco,Ca,94105,865000.0,98,86.0,1.0,1.0,832.0,Condo,1914.0,Active
+420 noe st unit 1a,San francisco,San-Francisco,Ca,94114,879000.0,99,73.0,2.0,1.0,910.0,Condo,1900.0,Active
+8300 geary blvd,San francisco,San-Francisco,Ca,94121,1388000.0,73,65.0,2.0,1.0,1450.0,Single family residential,1941.0,Active
+420 noe st unit 3c,San francisco,San-Francisco,Ca,94114,1749000.0,99,73.0,3.0,2.0,1775.0,Condo,1900.0,Active
+32 yukon st,San francisco,San-Francisco,Ca,94114,1195000.0,91,67.0,2.0,1.0,1119.0,Condo,1949.0,Active
+640 davis st #21,San francisco,San-Francisco,Ca,94111,2298000.0,98,85.0,3.0,3.0,1836.0,Condo,1983.0,Active
+250 grand view ave,San francisco,San-Francisco,Ca,94114,1795000.0,74,68.0,3.0,2.0,1900.0,Single family residential,1903.0,Active
+691 panorama dr,San francisco,San-Francisco,Ca,94131,1499000.0,29,27.0,3.0,2.0,1237.0,Single family residential,1957.0,Active
+260 king st #437,San francisco,San-Francisco,Ca,94107,779000.0,95,92.0,1.0,1.0,820.0,Condo,2004.0,Active
+140 caine ave,San francisco,San-Francisco,Ca,94112,948000.0,66,38.0,2.0,1.0,1000.0,Single family residential,1931.0,Active
+3345 divisadero st,San francisco,San-Francisco,Ca,94123,1760000.0,97,96.0,2.0,2.0,1761.0,Condo,1931.0,Active
+3347 divisadero st,San francisco,San-Francisco,Ca,94123,3140000.0,97,96.0,5.0,4.0,3065.0,Condo,1931.0,Active
+37 grafton ave,San francisco,San-Francisco,Ca,94112,1200000.0,87,52.0,2.0,2.0,1550.0,Single family residential,1925.0,Active
+4330 20th st,San francisco,San-Francisco,Ca,94114,2198000.0,98,64.0,4.0,2.0,1950.0,Single family home,1900.0,Active
+2 mint plz #408,San francisco,San-Francisco,Ca,94103,750000.0,99,92.0,1.0,1.0,727.0,Condo,1926.0,Active
+330 banks st,San francisco,San-Francisco,Ca,94110,1895000.0,93,60.0,3.0,2.5,1255.0,Single family residential,1908.0,Active
+1050 north point st #305,San francisco,San-Francisco,Ca,94109,489000.0,94,79.0,0.0,1.0,386.0,Co-op,1963.0,Active
+2130 leavenworth st #11,San francisco,San-Francisco,Ca,94133,799000.0,95,69.0,1.0,1.0,580.0,Condo,1924.0,Active
+40 westwood dr,San francisco,San-Francisco,Ca,94112,2498000.0,89,73.0,5.0,4.0,3220.0,Single family residential,1917.0,Active
+204 hoffman ave #1,San francisco,San-Francisco,Ca,94114,1998000.0,85,68.0,3.0,2.5,2065.0,Condo,1999.0,Active
+535 oak st,San francisco,San-Francisco,Ca,94102,899000.0,99,81.0,2.0,1.0,1437.0,Condo,1900.0,Active
+215 juanita way,San francisco,San-Francisco,Ca,94127,2050000.0,75,46.0,3.0,2.0,2123.0,Single family residential,1930.0,Active
+1200 gough st unit 9d,San francisco,San-Francisco,Ca,94109,819000.0,98,78.0,1.0,1.0,900.0,Condo,1966.0,Active
+754 oak st,San francisco,San-Francisco,Ca,94117,1795000.0,98,82.0,4.0,2.5,2570.0,Condo,1900.0,Active
+574 natoma st #403,San francisco,San-Francisco,Ca,94103,515000.0,98,98.0,1.0,1.0,407.0,Condo,2012.0,Active
+3057 market st,San francisco,San-Francisco,Ca,94114,1695000.0,94,65.0,3.0,3.0,1650.0,Condo,1958.0,Active
+140 south van ness ave #1143,San francisco,San-Francisco,Ca,94103,809000.0,97,99.0,1.0,1.0,883.0,Condo,2002.0,Active
+1688 pine st unit w509,San francisco,San-Francisco,Ca,94109,998000.0,99,79.0,1.0,1.0,717.0,Condo,2016.0,Active
+68 cayuga ave,San francisco,San-Francisco,Ca,94112,1695000.0,90,75.0,5.0,4.0,2205.0,Multi-family (2-4 unit),1900.0,Active
+802 shotwell st,San francisco,San-Francisco,Ca,94110,1395000.0,97,100.0,2.0,2.0,1625.0,Condo,1904.0,Active
+1455 monterey blvd,San francisco,San-Francisco,Ca,94127,2895000.0,74,56.0,4.0,3.5,3225.0,Single family residential,1930.0,Active
+2185 bush st #309,San francisco,San-Francisco,Ca,94115,1450000.0,99,88.0,2.0,2.0,1249.0,Condo,1984.0,Active
+1267 masonic st,San francisco,San-Francisco,Ca,94117,1649000.0,97,74.0,3.0,2.0,1715.0,Condo,1904.0,Active
+56 stratford dr,San francisco,San-Francisco,Ca,94132,1499000.0,85,71.0,4.0,2.0,1957.0,Single family residential,1941.0,Active
+307 page st #6,San francisco,San-Francisco,Ca,94102,698000.0,99,80.0,1.0,1.0,585.0,Condo,1910.0,Active
+1510 - 1512 castro st,San francisco,San-Francisco,Ca,94114,1385000.0,96,62.0,3.0,2.0,2750.0,Multi-family (2-4 unit),1895.0,Active
+380 10th st #23,San francisco,San-Francisco,Ca,94103,1150000.0,97,99.0,1.0,2.0,1475.0,Condo,2004.0,Active
+1635 kirkwood ave,San francisco,San-Francisco,Ca,94124,949000.0,91,95.0,4.0,3.0,1871.0,Single family residential,1907.0,Active
+1330 42nd ave,San francisco,San-Francisco,Ca,94122,1798000.0,87,92.0,5.0,4.0,2815.0,Single family residential,1907.0,Active
+2551 28th ave,San francisco,San-Francisco,Ca,94116,1295000.0,86,60.0,3.0,2.0,1390.0,Single family residential,1906.0,Active
+1545 eucalyptus dr,San francisco,San-Francisco,Ca,94132,1295000.0,79,63.0,3.0,2.0,1657.0,Single family residential,1950.0,Active
+616 20th st #530,San francisco,San-Francisco,Ca,94107,1050000.0,92,94.0,2.0,1.0,744.0,Condo,2013.0,Active
+75 wood st,San francisco,San-Francisco,Ca,94118,1495000.0,95,73.0,4.0,2.0,1548.0,Single family residential,1870.0,Active
+1587 15th st #501,San francisco,San-Francisco,Ca,94103,995000.0,99,100.0,2.0,1.0,1048.0,Condo,2007.0,Active
+601 van ness ave #729,San francisco,San-Francisco,Ca,94102,619000.0,98,99.0,1.0,1.0,706.0,Condo,1982.0,Active
+667 guerrero st,San francisco,San-Francisco,Ca,94110,1195000.0,99,92.0,2.0,1.0,1178.0,Condo,1957.0,Active
+601 van ness ave #141,San francisco,San-Francisco,Ca,94102,649000.0,98,99.0,1.0,1.5,889.0,Condo,1982.0,Active
+156 12th ave #2,San francisco,San-Francisco,Ca,94118,2350000.0,96,86.0,3.0,3.0,2164.0,Condo,2005.0,Active
+4438 17th st,San francisco,San-Francisco,Ca,94114,1950000.0,89,65.0,4.0,2.0,1690.0,Single family residential,1900.0,Active
+425 dellbrook ave,San francisco,San-Francisco,Ca,94131,1855000.0,34,26.0,3.0,2.0,1672.0,Single family residential,1958.0,Active
+664 - 666 natoma st #664,San francisco,San-Francisco,Ca,94103,1197000.0,97,99.0,3.0,2.0,1400.0,Condo,1857.0,Active
+2459 buchanan st,San francisco,San-Francisco,Ca,94115,2475000.0,97,64.0,3.0,2.0,1900.0,Condo,1900.0,Active
+28 rebecca ln,San francisco,San-Francisco,Ca,94124,1185000.0,76,66.0,2.0,2.0,1622.0,Single family residential,1992.0,Active
+125 oxford st,San francisco,San-Francisco,Ca,94134,865000.0,57,56.0,2.0,1.0,1200.0,Single family residential,1930.0,Active
+480 mission bay blvd #318,San francisco,San-Francisco,Ca,94158,1650000.0,88,93.0,2.0,2.0,1357.0,Condo,2012.0,Active
+2726 anza st,San francisco,San-Francisco,Ca,94121,1555000.0,97,82.0,5.0,3.0,2872.0,Duplex,1923.0,Active
+4055 - 4057 cesar chavez st,San francisco,San-Francisco,Ca,94131,2299000.0,94,68.0,4.0,4.0,2506.0,Multi-family (2-4 unit),1910.0,Active
+875 la playa st #379,San francisco,San-Francisco,Ca,94121,925000.0,70,87.0,1.0,1.0,1068.0,Condo,1983.0,Active
+1200 gough st unit 23a,San francisco,San-Francisco,Ca,94109,1395000.0,98,78.0,2.0,2.0,1500.0,Condo,1966.0,Active
+1771 41st ave,San francisco,San-Francisco,Ca,94122,1795000.0,85,82.0,4.0,2.0,1672.0,Single family home,1940.0,Active
+8 delano ave,San francisco,San-Francisco,Ca,94112,1299000.0,87,73.0,2.0,1.0,1476.0,Single family residential,1950.0,Active
+1170 sacramento st unit 5a,San francisco,San-Francisco,Ca,94108,2495000.0,99,60.0,2.0,2.5,2075.0,Condo,1963.0,Active
+2059 21st ave,San francisco,San-Francisco,Ca,94116,1195000.0,86,62.0,3.0,1.0,1837.0,Single family residential,1941.0,Active
+1515 noe st,San francisco,San-Francisco,Ca,94131,2295000.0,89,61.0,4.0,3.0,1836.0,Single family residential,1912.0,Active
+1462 30th ave,San francisco,San-Francisco,Ca,94122,1695000.0,90,79.0,3.0,2.0,1500.0,Single family residential,1928.0,Active
+321 parnassus ave,San francisco,San-Francisco,Ca,94117,1350000.0,94,63.0,2.0,1.0,1120.0,Condo,1908.0,Active
+1371 21st ave,San francisco,San-Francisco,Ca,94122,1579000.0,96,79.0,4.0,3.5,2276.0,Single family residential,1931.0,Active
+431 - 433 12th ave,San francisco,San-Francisco,Ca,94118,1798000.0,98,82.0,4.0,3.0,3160.0,Multi-family (2-4 unit),1922.0,Active
+4 jennifer pl,San francisco,San-Francisco,Ca,94107,950000.0,98,93.0,1.0,1.0,1284.0,Condo,2000.0,Active
+8 knott ct,San francisco,San-Francisco,Ca,94112,1200000.0,75,23.0,4.0,3.0,2243.0,Single family residential,1979.0,New
+1824 jackson st,San francisco,San-Francisco,Ca,94109,2300000.0,98,60.0,3.0,2.5,2854.0,Condo,1917.0,Active
+301 crescent ct #3101,San francisco,San-Francisco,Ca,94134,529000.0,17,42.0,1.0,1.0,804.0,Condo,2007.0,Active
+1050 north point st #302,San francisco,San-Francisco,Ca,94109,899000.0,94,79.0,2.0,1.0,1008.0,Condo,1963.0,Active
+2171 mission st #302,San francisco,San-Francisco,Ca,94110,869000.0,100,100.0,2.0,2.0,994.0,Condo,2000.0,Active
+1000 north point st #1505,San francisco,San-Francisco,Ca,94109,650000.0,95,73.0,0.0,1.0,379.0,Co-op,1963.0,Active
+1483 sutter st #402,San francisco,San-Francisco,Ca,94109,565000.0,99,82.0,1.0,1.0,650.0,Condo,1993.0,Active
+1483 sutter st #906,San francisco,San-Francisco,Ca,94109,999000.0,99,82.0,2.0,2.0,1128.0,Condo,1993.0,Active
+65 cleary ct #7,San francisco,San-Francisco,Ca,94109,1185000.0,97,77.0,3.0,2.0,1436.0,Co-op,1962.0,Active
+1840 washington st #203,San francisco,San-Francisco,Ca,94109,975000.0,99,72.0,1.0,1.0,863.0,Condo,2012.0,Active
+301 mission st unit 47f,San francisco,San-Francisco,Ca,94105,2198888.0,99,82.0,3.0,2.0,1601.0,Condo,2009.0,Active
+31 - 33 loyola ter,San francisco,San-Francisco,Ca,94117,2195000.0,96,92.0,4.0,2.0,3376.0,Multi-family (2-4 unit),1922.0,Active
+194 thrift st,San francisco,San-Francisco,Ca,94112,1298000.0,74,43.0,3.0,1.5,1386.0,Single family residential,1965.0,Active
+1465 fulton st,San francisco,San-Francisco,Ca,94117,1695000.0,97,99.0,3.0,2.5,1930.0,Condo,1900.0,Active
+999 green st #1704,San francisco,San-Francisco,Ca,94133,2649000.0,96,64.0,2.0,2.0,1681.0,Condo,1964.0,Active
+242 anderson st,San francisco,San-Francisco,Ca,94110,1998000.0,95,59.0,3.0,2.5,1772.0,Single family residential,1987.0,Active
+138 28th ave,San francisco,San-Francisco,Ca,94121,2995000.0,79,92.0,3.0,2.5,2750.0,Single family residential,1923.0,Active
+2828 bryant st,San francisco,San-Francisco,Ca,94110,1395000.0,96,76.0,3.0,2.0,1475.0,Condo,1926.0,Active
+2830 bryant st,San francisco,San-Francisco,Ca,94110,1295000.0,96,76.0,2.0,2.0,1357.0,Condo,1926.0,Active
+25 morrell st,San francisco,San-Francisco,Ca,94109,1095000.0,99,70.0,2.0,1.0,980.0,Condo,1923.0,Active
+403 main st unit 620n,San francisco,San-Francisco,Ca,94105,1195000.0,90,82.0,2.0,2.0,1083.0,Condo,1997.0,Active
+1345 visitacion ave,San francisco,San-Francisco,Ca,94134,1198000.0,74,47.0,2.0,1.0,1260.0,Single family residential,1951.0,Active
+101 lombard st unit 104e,San francisco,San-Francisco,Ca,94111,960000.0,97,65.0,1.0,1.0,1030.0,Condo,1983.0,Active
+2143 14th ave,San francisco,San-Francisco,Ca,94116,1998000.0,80,44.0,4.0,4.0,3590.0,Single family home,1976.0,Active
+277 douglass st,San francisco,San-Francisco,Ca,94114,1999000.0,97,66.0,3.0,2.0,1835.0,Single family residential,1910.0,Active
+207 guerrero st,San francisco,San-Francisco,Ca,94103,2000000.0,99,96.0,3.0,2.5,1850.0,Townhouse,2004.0,Active
+3059 market st,San francisco,San-Francisco,Ca,94114,1495000.0,94,65.0,2.0,2.0,1190.0,Condo,1958.0,Active
+1533 thomas ave,San francisco,San-Francisco,Ca,94124,989000.0,89,68.0,6.0,2.0,2080.0,Multi-family (2-4 unit),1907.0,Active
+120 putnam st,San francisco,San-Francisco,Ca,94110,2900000.0,91,68.0,3.0,4.0,3128.0,Single family residential,1923.0,Active
+1266 15th ave,San francisco,San-Francisco,Ca,94122,1790000.0,98,76.0,4.0,2.0,2432.0,Single family home,1923.0,Active
+175 bluxome st #217,San francisco,San-Francisco,Ca,94107,860000.0,92,98.0,2.0,2.0,1072.0,Condo,1998.0,Active
+601 van ness ave #623,San francisco,San-Francisco,Ca,94102,599000.0,98,99.0,1.0,1.0,721.0,Condo,1982.0,Active
+2235 lake st,San francisco,San-Francisco,Ca,94121,1825000.0,95,92.0,4.0,2.0,1856.0,Condo,1913.0,Active
+652 lakeview ave,San francisco,San-Francisco,Ca,94112,1895000.0,80,42.0,4.0,3.0,2490.0,Single family residential,2013.0,Active
+3136 fulton st #2,San francisco,San-Francisco,Ca,94118,1549000.0,87,88.0,4.0,2.5,1832.0,Condo,2001.0,Active
+253 randall st #1,San francisco,San-Francisco,Ca,94131,1089000.0,89,73.0,2.0,1.0,806.0,Condo,1909.0,Active
+2363 35th ave,San francisco,San-Francisco,Ca,94116,1295000.0,86,67.0,3.0,2.0,1387.0,Single family residential,1947.0,Active
+42 wilder st,San francisco,San-Francisco,Ca,94131,2195000.0,91,69.0,3.0,2.0,2386.0,Single family residential,1938.0,Active
+601 van ness ave #311,San francisco,San-Francisco,Ca,94102,515000.0,98,99.0,1.0,1.0,558.0,Condo,1982.0,Active
+300 ivy st #303,San francisco,San-Francisco,Ca,94102,899000.0,100,99.0,1.0,1.0,679.0,Condo,2014.0,Active
+1001 pine st #509,San francisco,San-Francisco,Ca,94109,629000.0,99,58.0,1.0,1.0,616.0,Condo,1963.0,Active
+1255 - 1257 19th ave,San francisco,San-Francisco,Ca,94122,1495000.0,97,81.0,7.0,3.0,3450.0,Multi-family (2-4 unit),1905.0,Active
+208 17th ave,San francisco,San-Francisco,Ca,94121,1595000.0,97,83.0,3.0,2.0,1760.0,Condo,1925.0,Active
+1250 washington st,San francisco,San-Francisco,Ca,94108,1325000.0,99,61.0,3.0,2.0,1483.0,Condo,1913.0,Active
+655 corbett ave #105,San francisco,San-Francisco,Ca,94114,739000.0,65,62.0,1.0,1.0,756.0,Condo,1964.0,Active
+255 topaz way,San francisco,San-Francisco,Ca,94131,2595000.0,70,62.0,4.0,3.5,2625.0,Single family residential,1972.0,Active
+1918 15th st #2,San francisco,San-Francisco,Ca,94114,999000.0,99,94.0,2.0,1.0,1000.0,Condo,1906.0,Active
+761 39th ave,San francisco,San-Francisco,Ca,94121,1995000.0,89,77.0,4.0,4.0,2010.0,Single family residential,1924.0,Active
+2377 greenwich st,San francisco,San-Francisco,Ca,94123,1598000.0,98,73.0,1.0,1.0,1095.0,Single family home,1900.0,Active
+2341 franklin st #4,San francisco,San-Francisco,Ca,94123,1095000.0,99,60.0,1.0,1.0,1306.0,Condo,1927.0,Active
+234 madrid st,San francisco,San-Francisco,Ca,94112,1199000.0,89,59.0,3.0,2.0,1425.0,Single family residential,1960.0,Active
+154 prentiss st,San francisco,San-Francisco,Ca,94110,1895000.0,93,61.0,3.0,2.0,2105.0,Single family residential,1909.0,Active
+851 van ness ave #400,San francisco,San-Francisco,Ca,94109,935000.0,99,88.0,2.0,2.0,1247.0,Condo,2002.0,Active
+301 main st unit 21a,San francisco,San-Francisco,Ca,94105,1525000.0,95,73.0,2.0,2.0,1163.0,Condo,2008.0,Active
+14 parsons st,San francisco,San-Francisco,Ca,94118,2496000.0,88,73.0,6.0,2.0,2800.0,Single family residential,1906.0,Active
+112 yukon st,San francisco,San-Francisco,Ca,94114,1995000.0,86,67.0,3.0,3.0,1859.0,Single family residential,1941.0,Active
+936 - 940 pacific ave,San francisco,San-Francisco,Ca,94133,1998000.0,100,67.0,4.0,3.0,3900.0,Multi-family (2-4 unit),1923.0,Active
+3521 webster st,San francisco,San-Francisco,Ca,94123,2349000.0,97,92.0,3.0,1.5,2070.0,Single family residential,1932.0,Active
+1 stanyan st #21,San francisco,San-Francisco,Ca,94118,1385000.0,92,79.0,2.0,2.0,1230.0,Condo,2018.0,Active
+2170 harrison st #7,San francisco,San-Francisco,Ca,94110,959000.0,97,100.0,1.0,1.5,1044.0,Condo,1997.0,Active
+2443 23rd ave,San francisco,San-Francisco,Ca,94116,2349000.0,91,62.0,4.0,4.0,2003.0,Single family residential,1924.0,Active
+647 cole st,San francisco,San-Francisco,Ca,94117,1895000.0,98,87.0,3.0,1.5,1844.0,Condo,1904.0,Active
+64 rosemont pl,San francisco,San-Francisco,Ca,94103,1595000.0,98,88.0,2.0,1.5,1438.0,Condo,1928.0,Active
+949 fell st #3,San francisco,San-Francisco,Ca,94117,1175000.0,98,77.0,3.0,3.0,1188.0,Condo,1909.0,Active
+1667 turk st,San francisco,San-Francisco,Ca,94115,1899000.0,96,77.0,3.0,3.0,2061.0,Condo,1994.0,Active
+201 harrison st #720,San francisco,San-Francisco,Ca,94105,875000.0,94,60.0,2.0,2.0,797.0,Condo,1991.0,Active
+342 hayes st unit h,San francisco,San-Francisco,Ca,94102,949000.0,100,99.0,1.0,1.5,804.0,Condo,1996.0,Active
+1880 steiner st #404,San francisco,San-Francisco,Ca,94115,1499000.0,99,91.0,2.0,2.5,1569.0,Condo,1999.0,Active
+1487 19th ave,San francisco,San-Francisco,Ca,94122,979000.0,89,60.0,3.0,1.0,1225.0,Single family residential,1922.0,Active
+645 capp st,San francisco,San-Francisco,Ca,94110,2295000.0,99,100.0,3.0,3.0,2122.0,Single family residential,1879.0,Active
+4 wright st,San francisco,San-Francisco,Ca,94110,949000.0,89,75.0,4.0,2.0,1475.0,Single family residential,1906.0,Active
+201 sansome st #804,San francisco,San-Francisco,Ca,94104,1475000.0,100,87.0,2.0,2.5,1541.0,Condo,1909.0,Active
+733 castro st,San francisco,San-Francisco,Ca,94114,1999000.0,96,62.0,4.0,2.5,1804.0,Single family residential,1900.0,Active
+112 putnam st,San francisco,San-Francisco,Ca,94110,2900000.0,91,68.0,4.0,3.0,3128.0,Single family residential,1923.0,Active
+731 avalon ave,San francisco,San-Francisco,Ca,94112,1138000.0,78,49.0,2.0,1.0,1144.0,Single family residential,1938.0,Active
+430 - 432 girard st,San francisco,San-Francisco,Ca,94134,1259000.0,92,66.0,4.0,3.0,2555.0,Multi-family (2-4 unit),1975.0,Active
+379 church st #301,San francisco,San-Francisco,Ca,94114,950000.0,99,98.0,2.0,2.0,789.0,Condo,1993.0,Active
+194 shakespeare st,San francisco,San-Francisco,Ca,94112,1185000.0,79,41.0,3.0,2.0,1432.0,Single family residential,1964.0,Active
+267 mangels ave,San francisco,San-Francisco,Ca,94131,1995000.0,76,59.0,4.0,2.0,2360.0,Single family residential,1969.0,Active
+865 hayes st unit b,San francisco,San-Francisco,Ca,94117,970000.0,98,77.0,2.0,1.0,1201.0,Condo,1900.0,Active
+2701 van ness ave #210,San francisco,San-Francisco,Ca,94109,895000.0,99,84.0,1.0,1.0,981.0,Condo,1929.0,Active
+1506 41st ave,San francisco,San-Francisco,Ca,94122,1195000.0,84,80.0,3.0,2.0,1464.0,Single family residential,1938.0,Active
+187 ellsworth st,San francisco,San-Francisco,Ca,94110,1195000.0,95,59.0,2.0,1.0,1059.0,Condo,1908.0,Active
+1050 north point st #206,San francisco,San-Francisco,Ca,94109,699000.0,94,79.0,1.0,1.0,676.0,Co-op,1963.0,Active
+658 hayes st,San francisco,San-Francisco,Ca,94102,1149000.0,98,79.0,2.0,2.0,1305.0,Condo,1982.0,Active
+822 28th ave,San francisco,San-Francisco,Ca,94121,1998000.0,82,82.0,5.0,3.0,2171.0,Single family residential,1936.0,Active
+1177 california st #625,San francisco,San-Francisco,Ca,94108,699000.0,99,59.0,1.0,1.0,653.0,Condo,1978.0,Active
+584 silver ave,San francisco,San-Francisco,Ca,94112,1095000.0,71,58.0,5.0,3.0,1966.0,Single family residential,1947.0,Active
+664 27th ave,San francisco,San-Francisco,Ca,94121,1999999.0,92,65.0,4.0,2.0,2150.0,Single family residential,1922.0,Active
+83 mcallister st #107,San francisco,San-Francisco,Ca,94102,395000.0,99,95.0,0.0,1.0,414.0,Condo,2007.0,Active
+954 teresita blvd,San francisco,San-Francisco,Ca,94127,1500000.0,72,57.0,3.0,2.0,1335.0,Single family residential,1937.0,Active
+451 kansas st #551,San francisco,San-Francisco,Ca,94107,819000.0,96,82.0,1.0,1.0,688.0,Condo,2007.0,Active
+370 church st unit a,San francisco,San-Francisco,Ca,94114,1049000.0,99,98.0,1.0,1.0,1050.0,Condo,1981.0,Active
+1000 3rd st #515,San francisco,San-Francisco,Ca,94158,1050000.0,86,91.0,1.0,2.0,961.0,Condo,2018.0,Active
+319 douglass st,San francisco,San-Francisco,Ca,94114,1195000.0,93,67.0,2.0,1.0,1346.0,Condo,1903.0,Active
+18 vandewater st,San francisco,San-Francisco,Ca,94133,1698000.0,98,87.0,3.0,3.0,1860.0,Condo,2007.0,Active
+300 berry st #704,San francisco,San-Francisco,Ca,94158,829000.0,88,93.0,1.0,1.0,856.0,Condo,2009.0,Active
+310 carolina st #207,San francisco,San-Francisco,Ca,94107,1495000.0,97,75.0,2.0,2.0,1271.0,Condo,2015.0,Active
+106 8th ave,San francisco,San-Francisco,Ca,94118,1259000.0,96,90.0,2.0,1.0,1209.0,Condo,1911.0,Active
+195 jersey st,San francisco,San-Francisco,Ca,94114,1199000.0,98,79.0,2.0,1.0,804.0,Condo,1900.0,Active
+5 surrey st,San francisco,San-Francisco,Ca,94131,1395000.0,90,70.0,2.0,2.0,1335.0,Single family residential,1910.0,Active
+448 gold mine dr,San francisco,San-Francisco,Ca,94131,2650000.0,70,58.0,4.0,3.0,2275.0,Single family residential,1968.0,Active
+527 oak park dr,San francisco,San-Francisco,Ca,94131,2899000.0,37,39.0,4.0,3.0,2150.0,Single family residential,1961.0,Active
+3937 sacramento st,San francisco,San-Francisco,Ca,94118,3095000.0,95,83.0,3.0,2.5,2200.0,Condo,1983.0,Active
+280 spear st unit 2e,San francisco,San-Francisco,Ca,94105,1340000.0,95,73.0,3.0,2.0,1176.0,Condo,2022.0,Active
+110 channel st #421,San francisco,San-Francisco,Ca,94158,988000.0,88,92.0,1.0,1.0,763.0,Condo,2017.0,Active
+2302 divisadero st,San francisco,San-Francisco,Ca,94115,2950000.0,95,60.0,4.0,2.5,2272.0,Condo,1900.0,Active
+2054 36th ave,San francisco,San-Francisco,Ca,94116,2550000.0,70,69.0,4.0,3.5,2259.0,Single family residential,1954.0,Active
+483 paris st,San francisco,San-Francisco,Ca,94112,998000.0,95,42.0,2.0,1.0,1210.0,Single family residential,1922.0,Active
+74 new montgomery st #416,San francisco,San-Francisco,Ca,94105,1450000.0,98,86.0,2.0,2.0,1123.0,Condo,1914.0,Active
+311 21st ave,San francisco,San-Francisco,Ca,94121,1399000.0,99,81.0,4.0,1.0,2200.0,Single family residential,1916.0,Active
+446 fell st,San francisco,San-Francisco,Ca,94102,749000.0,99,89.0,1.0,1.5,800.0,Condo,1900.0,Active
+1310 fulton st #204,San francisco,San-Francisco,Ca,94117,1099000.0,98,93.0,2.0,2.0,975.0,Condo,1989.0,Active
+121 joost ave,San francisco,San-Francisco,Ca,94131,1795000.0,89,67.0,3.0,2.5,2248.0,Single family residential,1908.0,Active
+472 anderson st,San francisco,San-Francisco,Ca,94110,1250000.0,94,63.0,2.0,1.0,950.0,Single family home,1912.0,Active
+390 - 392 corbett ave,San francisco,San-Francisco,Ca,94114,2495000.0,81,60.0,2.0,3.0,1760.0,Single family residential,1906.0,Active
+24 cuvier st,San francisco,San-Francisco,Ca,94112,1599000.0,86,74.0,5.0,2.5,2690.0,Single family residential,1930.0,Active
+2371 34th ave,San francisco,San-Francisco,Ca,94116,1195000.0,83,61.0,2.0,1.0,1325.0,Single family residential,1925.0,Active
+1470 golden gate ave #6,San francisco,San-Francisco,Ca,94115,1298000.0,95,74.0,2.0,2.0,1276.0,Condo,1988.0,Active
+24 margaret ave,San francisco,San-Francisco,Ca,94112,599000.0,77,48.0,1.0,2.0,780.0,Single family residential,1931.0,Active
+1902 lyon st unit b,San francisco,San-Francisco,Ca,94115,1895000.0,96,76.0,2.0,2.5,1448.0,Condo,1979.0,Active
+723 46th ave,San francisco,San-Francisco,Ca,94121,1500000.0,82,86.0,2.0,1.0,1395.0,Single family residential,1923.0,Active
+25 sierra st unit e307,San francisco,San-Francisco,Ca,94107,1049000.0,93,59.0,2.0,2.0,1051.0,Condo,2006.0,Active
+1038 filbert st,San francisco,San-Francisco,Ca,94133,799000.0,96,66.0,2.0,1.0,1173.0,Condo,1924.0,Active
+177 townsend st #527,San francisco,San-Francisco,Ca,94107,999000.0,93,92.0,2.0,2.0,1024.0,Condo,2007.0,Active
+1220 la playa st #303,San francisco,San-Francisco,Ca,94122,329338.0,74,85.0,1.0,1.0,606.0,Condo,1961.0,Active
+601 van ness ave #328,San francisco,San-Francisco,Ca,94102,425000.0,98,99.0,0.0,1.0,470.0,Condo,1982.0,Active
+333 1st st #1906,San francisco,San-Francisco,Ca,94105,649000.0,95,63.0,0.0,1.0,506.0,Condo,2004.0,Active
+1631 la salle ave,San francisco,San-Francisco,Ca,94124,1495000.0,92,82.0,4.0,4.0,2430.0,Single family residential,1940.0,Active
+2100 pacific ave unit 8a,San francisco,San-Francisco,Ca,94115,3495000.0,98,87.0,4.0,3.5,2707.0,Co-op,1926.0,Active
+330 berry st #404,San francisco,San-Francisco,Ca,94158,541177.0,82,95.0,2.0,2.0,891.0,Condo,2009.0,Active
+252 9th st #403,San francisco,San-Francisco,Ca,94103,799000.0,98,99.0,2.0,1.0,715.0,Condo,2015.0,Active
+1310 fillmore st ph 2-e,San francisco,San-Francisco,Ca,94115,929000.0,99,99.0,1.0,1.0,749.0,Condo,2007.0,Active
+26 brussels st,San francisco,San-Francisco,Ca,94134,988000.0,92,82.0,3.0,1.0,1250.0,Single family residential,1911.0,Active
+400 beale st #2103,San francisco,San-Francisco,Ca,94105,1695000.0,92,60.0,2.0,2.0,1074.0,Condo,2001.0,Active
+1400 mission st #1508,San francisco,San-Francisco,Ca,94103,488000.0,99,99.0,1.0,1.0,649.0,Condo,2015.0,Active
+249 shipley st #1,San francisco,San-Francisco,Ca,94107,749000.0,97,98.0,2.0,2.5,1295.0,Condo,1999.0,Active
+747 38th ave,San francisco,San-Francisco,Ca,94121,1499000.0,89,77.0,3.0,1.0,1190.0,Single family home,1924.0,Active
+340 6th st #301,San francisco,San-Francisco,Ca,94103,1195000.0,96,99.0,2.0,2.0,1718.0,Condo,1997.0,Active
+798 38th ave,San francisco,San-Francisco,Ca,94121,545000.0,89,76.0,0.0,1.0,579.0,Condo,1914.0,Active
+232 - 234 diamond st,San francisco,San-Francisco,Ca,94114,1995000.0,97,66.0,5.0,2.0,2224.0,Multi-family (2-4 unit),1900.0,Active
+120 - 122 alpine ter #122,San francisco,San-Francisco,Ca,94117,1095000.0,94,70.0,2.0,1.0,2040.0,Condo,1900.0,Active
+2 mint plz #502,San francisco,San-Francisco,Ca,94103,1200000.0,99,92.0,2.0,2.0,2018.0,Condo,1926.0,Active
+1608 -1612 folsom st,San francisco,San-Francisco,Ca,94103,1799000.0,98,99.0,6.0,4.5,4185.0,Triplex,1914.0,Active
+1250 17th ave,San francisco,San-Francisco,Ca,94122,1595000.0,96,74.0,4.0,2.0,3080.0,Multi-family (2-4 unit),1914.0,Active
+643 - 645 35th ave,San francisco,San-Francisco,Ca,94121,1748000.0,92,73.0,6.0,4.0,3676.0,Multi-family (2-4 unit),1976.0,Active
+2167 brandywine pl,Hayward,Alameda-County,Ca,94542,975000.0,12,24.0,3.0,2.5,1458.0,Single family residential,1997.0,New
+38992 primula ter,Newark,Alameda-County,Ca,94560,1050000.0,75,46.0,3.0,3.0,1503.0,Condo,2016.0,New
+285 sextus rd,Oakland,Alameda-County,Ca,94603,569000.0,53,65.0,3.0,1.5,1339.0,Single family residential,1943.0,New
+311 oak st ph 27,Oakland,Alameda-County,Ca,94607,959000.0,92,89.0,2.0,2.0,1468.0,Condo,2003.0,New
+79 sandringham rd,Piedmont,Alameda-County,Ca,94611,3500000.0,39,22.0,4.0,4.5,4015.0,Single family residential,1938.0,Active
+534 25th st,Oakland,Alameda-County,Ca,94612,1250000.0,98,99.0,6.0,3.0,2071.0,Multi-family (2-4 unit),1907.0,New
+2474 seminary ave,Oakland,Alameda-County,Ca,94605,499000.0,83,60.0,3.0,2.0,1018.0,Single family residential,1921.0,New
+6827 ridgewood dr,Oakland,Alameda-County,Ca,94611,1189000.0,3,23.0,5.0,3.0,2640.0,Single family residential,1957.0,New
+31133 alvarado niles rd,Union city,Alameda-County,Ca,94587,589000.0,81,55.0,2.0,1.5,1129.0,Condo,1983.0,New
+1863 edgehill ct,San leandro,Alameda-County,Ca,94577,1375000.0,20,5.0,4.0,2.5,2642.0,Single family residential,1974.0,New
+1115 chestnut st,Oakland,Alameda-County,Ca,94607,1099950.0,81,98.0,4.0,3.0,2222.0,Single family residential,1910.0,New
+824 dolores ave,San leandro,Alameda-County,Ca,94577,999000.0,63,79.0,3.0,2.0,1410.0,Single family home,1955.0,Active
+11642 betlen dr,Dublin,Alameda-County,Ca,94568,1150000.0,59,66.0,4.0,2.0,1971.0,Single family residential,1965.0,New
+1208 blake st,Berkeley,Alameda-County,Ca,94702,1375000.0,87,91.0,3.0,2.0,1902.0,Single family residential,1923.0,Active
+311 ramona ave,Piedmont,Alameda-County,Ca,94611,2595000.0,57,40.0,5.0,3.0,2831.0,Single family residential,1916.0,New
+39206 guardino dr #211,Fremont,Alameda-County,Ca,94538,699000.0,26,63.0,2.0,2.0,1077.0,Condo,1990.0,New
+3410 birdsall ave,Oakland,Alameda-County,Ca,94619,1195000.0,76,45.0,3.0,3.0,2104.0,Single family residential,1929.0,Active
+1060 turquoise ter,Union city,Alameda-County,Ca,94587,849000.0,9,29.0,2.0,2.5,1203.0,Townhouse,2007.0,Active
+24866 yoshida dr,Hayward,Alameda-County,Ca,94545,989000.0,51,40.0,4.0,3.0,1904.0,Single family residential,1996.0,New
+6251 hillmont dr,Oakland,Alameda-County,Ca,94605,1029000.0,37,25.0,5.0,3.0,3008.0,Single family residential,1870.0,New
+16301 ridgehaven dr #1404,San leandro,Alameda-County,Ca,94578,960000.0,51,33.0,4.0,3.5,1678.0,Townhouse,2020.0,New
+3926 woodruff ave,Oakland,Alameda-County,Ca,94602-1634,1059000.0,87,60.0,3.0,1.0,1246.0,Single family residential,1923.0,New
+1308 e 19th,Oakland,Alameda-County,Ca,94606,799000.0,88,74.0,5.0,3.0,1545.0,Single family residential,1918.0,New
+1900 22nd ave,Oakland,Alameda-County,Ca,94606,699999.0,85,70.0,4.0,2.0,1924.0,Multi-family (2-4 unit),1927.0,New
+5195 amberwood dr,Fremont,Alameda-County,Ca,94555,1795000.0,56,59.0,4.0,2.5,1869.0,Single family residential,1989.0,New
+9510 plymouth st,Oakland,Alameda-County,Ca,94603,700000.0,78,54.0,6.0,3.0,2000.0,Multi-family (2-4 unit),1948.0,New
+1206 delaware st,Berkeley,Alameda-County,Ca,94702,1600000.0,92,100.0,4.0,4.0,2857.0,Multi-family (2-4 unit),1930.0,New
+50 schooner hl,Oakland,Alameda-County,Ca,94618,1999000.0,13,36.0,3.0,3.5,3090.0,Townhouse,1994.0,New
+6116 ruthland rd,Oakland,Alameda-County,Ca,94611,1349000.0,19,27.0,3.0,3.0,2999.0,Single family residential,1995.0,New
+679 james st,Livermore,Alameda-County,Ca,94551,799000.0,80,81.0,3.0,1.0,960.0,Single family residential,1952.0,New
+815 40th,Oakland,Alameda-County,Ca,94608,1095000.0,90,99.0,4.0,3.0,1766.0,Single family residential,1908.0,New
+1344 wilton rd,Livermore,Alameda-County,Ca,94551,1150000.0,41,70.0,4.0,2.0,1414.0,Single family residential,1969.0,New
+3108 galindo st,Oakland,Alameda-County,Ca,94601,799000.0,84,67.0,4.0,1.0,1750.0,Single family residential,1912.0,New
+532 aileen st,Oakland,Alameda-County,Ca,94609,995000.0,92,90.0,2.0,2.0,1524.0,Single family residential,1931.0,New
+3763 oakes dr,Hayward,Alameda-County,Ca,94542,1299999.0,8,19.0,4.0,2.5,2677.0,Single family residential,1969.0,New
+1007 yerba buena ave,Oakland,Alameda-County,Ca,94608,898000.0,93,98.0,2.0,1.0,1162.0,Single family residential,1922.0,New
+22237 victory dr,Hayward,Alameda-County,Ca,94541,899000.0,68,59.0,3.0,1.0,1319.0,Single family home,1943.0,Active
+1663 sylvia st,Hayward,Alameda-County,Ca,94545,925000.0,53,47.0,3.0,2.5,1546.0,Townhouse,2015.0,New
+15368 ruggles,San leandro,Alameda-County,Ca,94579-2026,789000.0,65,64.0,4.0,2.0,1337.0,Single family residential,1956.0,New
+19 dormidera,Piedmont,Alameda-County,Ca,94611,3495000.0,53,23.0,4.0,2.5,3300.0,Single family residential,1910.0,New
+2836 parker ave,Oakland,Alameda-County,Ca,94605,599000.0,65,44.0,2.0,1.0,1298.0,Single family residential,1929.0,New
+1125 11th ave,Oakland,Alameda-County,Ca,94606,1605000.0,91,92.0,5.0,1.0,3184.0,Multi-family (2-4 unit),1908.0,Active
+4415 pleasant valley ct,Oakland,Alameda-County,Ca,94611,995000.0,82,54.0,2.0,2.0,1069.0,Single family residential,1922.0,New
+6153 thornton ave unit a,Newark,Alameda-County,Ca,94560,775000.0,77,51.0,3.0,2.5,1383.0,Townhouse,1987.0,New
+819 paramount rd,Oakland,Alameda-County,Ca,94610,2499000.0,49,41.0,5.0,3.0,2962.0,Single family residential,1927.0,New
+1 lakeside dr #1205,Oakland,Alameda-County,Ca,94612,660000.0,96,89.0,1.0,1.0,833.0,Condo,2001.0,New
+5116 trade wind ln,Fremont,Alameda-County,Ca,94538,1298000.0,45,52.0,3.0,2.0,1325.0,Single family home,1961.0,Active
+41535 roberts ave,Fremont,Alameda-County,Ca,94538,1498888.0,82,69.0,4.0,2.5,1600.0,Single family home,1954.0,Active
+15233 laverne ct,San leandro,Alameda-County,Ca,94579,998000.0,56,57.0,3.0,2.0,1711.0,Single family residential,1958.0,New
+4439 penniman ave,Oakland,Alameda-County,Ca,94619,989000.0,68,39.0,3.0,3.0,1855.0,Single family residential,1926.0,New
+6935 snake rd,Oakland,Alameda-County,Ca,94611,1525000.0,14,13.0,3.0,2.0,2094.0,Single family residential,1970.0,New
+5061 parkridge dr,Oakland,Alameda-County,Ca,94619,1395000.0,6,9.0,4.0,3.0,2105.0,Single family residential,1963.0,New
+816 pomona ave,Albany,Alameda-County,Ca,94706,898000.0,94,97.0,3.0,1.0,1279.0,Single family residential,1928.0,Active
+3129 market st,Oakland,Alameda-County,Ca,94608,599000.0,90,99.0,2.0,1.0,863.0,Single family residential,1896.0,New
+1430 8th ave,Oakland,Alameda-County,Ca,94606,450000.0,94,90.0,2.0,2.0,803.0,Condo,1896.0,New
+43275 coit ave,Fremont,Alameda-County,Ca,94539,2550000.0,55,55.0,5.0,3.0,2586.0,Single family residential,1952.0,New
+4300 adeline st,Emeryville,Alameda-County,Ca,94608,1488000.0,92,97.0,4.0,3.0,1923.0,Single family residential,1939.0,New
+6735 pearl pl,Dublin,Alameda-County,Ca,94568,1775000.0,17,49.0,5.0,3.0,2671.0,Single family residential,1987.0,New
+38831 garibaldi cmn,Fremont,Alameda-County,Ca,94536,1199000.0,45,75.0,3.0,2.5,1610.0,Townhouse,1994.0,New
+468 lincoln ave,Alameda,Alameda-County,Ca,94501,788000.0,81,77.0,3.0,1.0,1104.0,Single family residential,1910.0,Active
+3803 robby ct,Pleasanton,Alameda-County,Ca,94566,1649900.0,53,69.0,4.0,3.0,2301.0,Single family residential,2019.0,New
+1000 clubhouse dr,Hayward,Alameda-County,Ca,94541,645000.0,73,63.0,2.0,2.5,1270.0,Townhouse,1973.0,New
+34758 jovan ter,Fremont,Alameda-County,Ca,94555,1220000.0,40,45.0,3.0,2.5,1383.0,Townhouse,1989.0,New
+811 leonardo way,Hayward,Alameda-County,Ca,94541,998000.0,70,55.0,4.0,4.0,1917.0,Single family residential,1956.0,Price change
+2117 encinal ave,Alameda,Alameda-County,Ca,94501,1295000.0,90,75.0,5.0,3.0,2618.0,Single family residential,1895.0,New
+5823 picardy dr,Oakland,Alameda-County,Ca,94605,849000.0,80,65.0,4.0,1.5,1668.0,Single family residential,1926.0,New
+5977 lombard st,Dublin,Alameda-County,Ca,94568,1588800.0,34,79.0,4.0,3.5,2654.0,Single family residential,2020.0,Price change
+648 elsie ave,San leandro,Alameda-County,Ca,94577,998000.0,81,82.0,3.0,2.0,1510.0,Single family residential,1939.0,New
+5225 morris way,Fremont,Alameda-County,Ca,94536,1399000.0,52,45.0,4.0,2.0,1265.0,Single family residential,1960.0,New
+320 caldecott ln #207,Oakland,Alameda-County,Ca,94618,489000.0,5,30.0,1.0,1.0,773.0,Condo,1998.0,New
+16050 via conejo,San lorenzo,Alameda-County,Ca,94580,728000.0,62,53.0,3.0,1.0,986.0,Single family residential,1944.0,New
+2471 cordova st,Oakland,Alameda-County,Ca,94602,1150000.0,81,67.0,5.0,4.0,2841.0,Single family residential,1937.0,New
+3444 dwight way,Berkeley,Alameda-County,Ca,94704,1475000.0,29,29.0,3.0,2.5,1720.0,Single family residential,1954.0,New
+429 industrial pkwy,Hayward,Alameda-County,Ca,94544,912000.0,68,56.0,3.0,2.5,1948.0,Townhouse,2022.0,Active
+3669 pinon canyon ct,Castro valley,Alameda-County,Ca,94552,839950.0,3,8.0,2.0,2.5,1258.0,Townhouse,1996.0,Active
+25307 parklane dr,Hayward,Alameda-County,Ca,94544,818888.0,64,64.0,2.0,2.5,1445.0,Condo,2020.0,New
+24632 diamond ridge dr,Hayward,Alameda-County,Ca,94544,699000.0,71,56.0,2.0,3.0,1520.0,Townhouse,1991.0,New
+950 blenheim st,Oakland,Alameda-County,Ca,94603,599900.0,70,69.0,3.0,1.5,1372.0,Single family residential,1940.0,New
+2324 harrington ave,Oakland,Alameda-County,Ca,94601,595000.0,59,61.0,2.0,1.0,901.0,Single family residential,1923.0,New
+4637 rimini ct,Dublin,Alameda-County,Ca,94568-7339,1198000.0,52,71.0,3.0,3.5,2372.0,Condo,2007.0,New
+1916 melvin rd,Oakland,Alameda-County,Ca,94602,1395000.0,29,21.0,3.0,2.0,2089.0,Single family residential,1937.0,New
+1615 broadway #14,Oakland,Alameda-County,Ca,94612,1499000.0,100,91.0,2.0,2.0,2100.0,Condo,1914.0,New
+1849 benedict dr,San leandro,Alameda-County,Ca,94577,898000.0,65,40.0,3.0,2.0,1490.0,Single family residential,1955.0,New
+3131 somerset ave,Castro valley,Alameda-County,Ca,94546-3348,799950.0,71,54.0,3.0,2.5,1415.0,Condo,1985.0,New
+1201 pine st #349,Oakland,Alameda-County,Ca,94607,689000.0,67,83.0,2.0,2.5,1643.0,Condo,2009.0,New
+279 hackmore cmn,Fremont,Alameda-County,Ca,94539,529888.0,66,62.0,1.0,1.0,665.0,Condo,1984.0,New
+258 birch creek dr,Pleasanton,Alameda-County,Ca,94566,724999.0,65,61.0,2.0,2.0,860.0,Townhouse,1986.0,New
+32022 arya ct unit 6a,Union city,Alameda-County,Ca,94587,789000.0,80,57.0,3.0,2.5,1249.0,Townhouse,1981.0,New
+495 mavis dr,Pleasanton,Alameda-County,Ca,94566,1649000.0,48,40.0,4.0,2.5,2020.0,Single family residential,1971.0,New
+199 la salle ave,Piedmont,Alameda-County,Ca,94610,2895000.0,29,21.0,3.0,3.5,2765.0,Single family residential,1951.0,New
+754 alcatraz ave,Oakland,Alameda-County,Ca,94609,855000.0,93,98.0,3.0,1.0,1080.0,Single family residential,1918.0,Active
+5129 dupont ave,Newark,Alameda-County,Ca,94560,1249000.0,41,43.0,3.0,2.0,1450.0,Single family residential,1955.0,New
+42681 lerwick st,Fremont,Alameda-County,Ca,94539,2299900.0,52,46.0,4.0,2.0,2036.0,Single family residential,1964.0,New
+915 cedar st,Berkeley,Alameda-County,Ca,94710,899000.0,86,99.0,2.0,1.0,1156.0,Single family residential,1943.0,New
+4121 grant ct,Pleasanton,Alameda-County,Ca,94566,3395000.0,21,22.0,4.0,3.5,3357.0,Single family residential,1992.0,New
+6113 augusta way,Livermore,Alameda-County,Ca,94551,1100000.0,58,72.0,3.0,2.5,1795.0,Single family residential,1997.0,New
+1201 67th st,Oakland,Alameda-County,Ca,94608,875000.0,91,91.0,2.0,2.5,1197.0,Condo,2005.0,New
+3709 keller ave,Oakland,Alameda-County,Ca,94605,695000.0,22,17.0,2.0,1.0,1000.0,Single family residential,1925.0,New
+1257 amalfi cmn,Livermore,Alameda-County,Ca,94551,1028888.0,68,77.0,4.0,2.5,2061.0,Single family residential,2002.0,New
+2556 via espada,Pleasanton,Alameda-County,Ca,94566,1885000.0,40,75.0,4.0,2.5,2111.0,Single family residential,1975.0,New
+478 pagoda ter,Fremont,Alameda-County,Ca,94539,1488888.0,44,62.0,4.0,3.0,1781.0,Single family home,2008.0,Active
+1208 ordway st,Berkeley,Alameda-County,Ca,94706,1295000.0,81,96.0,3.0,2.0,1674.0,Single family residential,1924.0,New
+1093 melrose ave,Alameda,Alameda-County,Ca,94502,849000.0,37,52.0,3.0,2.5,1642.0,Townhouse,1973.0,New
+1238 via vis,San lorenzo,Alameda-County,Ca,94580,899000.0,51,49.0,3.0,1.0,1050.0,Single family residential,1951.0,New
+17537 wickman pl,San lorenzo,Alameda-County,Ca,94580,499000.0,60,48.0,2.0,1.5,1168.0,Townhouse,1971.0,New
+9601 las vegas ave,Oakland,Alameda-County,Ca,94605,850000.0,56,40.0,2.0,2.0,1249.0,Single family residential,1940.0,Active
+4349 2nd st,Pleasanton,Alameda-County,Ca,94566,1899000.0,88,48.0,3.0,3.0,1999.0,Single family residential,1938.0,New
+1855 vancouver way,Livermore,Alameda-County,Ca,94550,1593888.0,32,61.0,4.0,3.0,2104.0,Single family residential,1968.0,New
+1101 park ave,Alameda,Alameda-County,Ca,94501,998000.0,87,81.0,5.0,2.0,2547.0,Single family residential,1895.0,New
+217 spring harvest rd,Hayward,Alameda-County,Ca,94544,817000.0,75,56.0,3.0,3.0,1554.0,Townhouse,2018.0,New
+3231 verde ct,Pleasanton,Alameda-County,Ca,94588,947000.0,52,71.0,2.0,2.0,1381.0,Townhouse,1993.0,New
+35845 tozier st,Newark,Alameda-County,Ca,94560,1298000.0,58,51.0,3.0,2.5,1571.0,Single family residential,1974.0,New
+2420 ritchie st,Oakland,Alameda-County,Ca,94605,610000.0,74,69.0,3.0,1.0,1154.0,Single family residential,1941.0,New
+1121 40th st #4108,Emeryville,Alameda-County,Ca,94608,419500.0,93,97.0,1.0,1.0,644.0,Condo,2005.0,New
+9327 plymouth st,Oakland,Alameda-County,Ca,94603,487000.0,75,54.0,3.0,2.0,1404.0,Single family residential,1993.0,New
+38549 goodrich way,Fremont,Alameda-County,Ca,94536,1998800.0,23,50.0,4.0,2.0,2218.0,Single family residential,1950.0,New
+2863 birdsall ave,Oakland,Alameda-County,Ca,94619,1095000.0,66,48.0,6.0,4.0,2951.0,Single family residential,1904.0,New
+8919 san ramon rd,Dublin,Alameda-County,Ca,94568,637521.0,67,64.0,4.0,2.5,1701.0,Condo,2006.0,New
+Undisclosed address,Oakland,Alameda-County,Ca,94619,950000.0,74,64.0,6.0,3.0,2682.0,Multi-family (2-4 unit),1924.0,New
+874 36th st,Oakland,Alameda-County,Ca,94608,916998.0,88,91.0,6.0,4.0,2766.0,Single family residential,1912.0,New
+709 adams ave,Livermore,Alameda-County,Ca,94550,1189000.0,56,60.0,3.0,2.0,1825.0,Single family residential,1959.0,New
+2153 sacramento st,Berkeley,Alameda-County,Ca,94702,995000.0,90,100.0,2.0,1.0,1082.0,Single family residential,1921.0,New
+3837 vineyard ave #22,Pleasanton,Alameda-County,Ca,94566,475000.0,54,66.0,1.0,1.0,617.0,Condo,1983.0,Active
+3563 norton way,Pleasanton,Alameda-County,Ca,94566,849900.0,51,55.0,3.0,2.5,1202.0,Condo,1982.0,New
+2919 delaware st,Oakland,Alameda-County,Ca,94602,989000.0,86,44.0,4.0,2.5,1828.0,Single family residential,1910.0,New
+3982 turnley ave,Oakland,Alameda-County,Ca,94605,1495000.0,13,16.0,4.0,3.0,3039.0,Single family residential,1930.0,New
+24221 2nd st,Hayward,Alameda-County,Ca,94541,1049999.0,53,22.0,3.0,3.5,2009.0,Single family home,2020.0,Active
+1622 buena ave,Berkeley,Alameda-County,Ca,94703,1195000.0,86,95.0,3.0,1.5,1515.0,Single family residential,1918.0,New
+722 31st st,Oakland,Alameda-County,Ca,94609,661800.0,85,100.0,4.0,1.5,2462.0,Single family residential,1908.0,New
+67 norman ln,Oakland,Alameda-County,Ca,94618,2388000.0,46,41.0,6.0,4.0,2237.0,Single family residential,1920.0,New
+1312 92nd ave,Oakland,Alameda-County,Ca,94603,525000.0,80,55.0,2.0,2.0,1294.0,Multi-family (2-4 unit),1921.0,New
+1809 pacific ave,Alameda,Alameda-County,Ca,94501,895000.0,81,83.0,2.0,2.0,949.0,Single family residential,1942.0,New
+61 spy glass hls,Oakland,Alameda-County,Ca,94618,1399000.0,16,44.0,2.0,3.0,2011.0,Townhouse,1995.0,Active
+2207 64th ave,Oakland,Alameda-County,Ca,94605,525000.0,76,57.0,2.0,1.0,1023.0,Single family residential,1924.0,New
+2218 charter way,San leandro,Alameda-County,Ca,94579,1200000.0,55,69.0,4.0,3.0,2294.0,Single family residential,1999.0,New
+37 oak park dr,Alameda,Alameda-County,Ca,94502,1200000.0,33,71.0,3.0,2.5,1701.0,Townhouse,1986.0,New
+33024 alicante ter,Union city,Alameda-County,Ca,94587,879000.0,23,45.0,3.0,2.5,1212.0,Single family residential,1997.0,New
+222 broadway #1012,Oakland,Alameda-County,Ca,94607,598000.0,96,81.0,1.0,1.0,694.0,Condo,2009.0,New
+3078 73rd ave,Oakland,Alameda-County,Ca,94605,550000.0,57,29.0,2.0,2.0,1614.0,Single family residential,1951.0,Active
+1117 keith ave,Berkeley,Alameda-County,Ca,94708,1075000.0,34,32.0,3.0,4.5,1980.0,Single family residential,1979.0,New
+411 bellevue ave,Oakland,Alameda-County,Ca,94610-4924,1220000.0,94,87.0,4.0,3.0,2278.0,Single family residential,1912.0,New
+2132 stuart st,Berkeley,Alameda-County,Ca,94705,1395000.0,90,94.0,4.0,3.0,1602.0,Single family residential,1925.0,New
+307 garden cmn,Livermore,Alameda-County,Ca,94551,750000.0,47,69.0,3.0,2.5,1519.0,Townhouse,1986.0,New
+40823 raduno ter,Fremont,Alameda-County,Ca,94538,1048000.0,88,57.0,2.0,2.5,1397.0,Townhouse,2021.0,New
+2055 calibria ct,Livermore,Alameda-County,Ca,94550,2275000.0,16,61.0,4.0,3.5,3732.0,Single family residential,2004.0,New
+2275 gibbons st,Hayward,Alameda-County,Ca,94541,875000.0,64,60.0,3.0,2.5,1704.0,Condo,2014.0,New
+5333 hazeltine ln,Dublin,Alameda-County,Ca,94568,2295000.0,8,36.0,5.0,4.5,3883.0,Single family residential,2004.0,New
+22562 hennings ct,Hayward,Alameda-County,Ca,94541,750000.0,75,64.0,3.0,2.0,1560.0,Single family residential,1947.0,Active
+2430 27th ave,Oakland,Alameda-County,Ca,94601,900000.0,79,60.0,6.0,3.0,2485.0,Multi-family (2-4 unit),1925.0,New
+7865 tamarack dr,Dublin,Alameda-County,Ca,94568,1179000.0,52,61.0,3.0,2.0,1116.0,Single family residential,1961.0,New
+24604 2nd st,Hayward,Alameda-County,Ca,94541,890500.0,11,11.0,3.0,2.0,1905.0,Single family residential,1964.0,Active
+860 comanche ct,Livermore,Alameda-County,Ca,94551,899000.0,58,66.0,3.0,2.0,1400.0,Single family residential,1964.0,New
+17880 apricot way,Castro valley,Alameda-County,Ca,94546,1280000.0,29,19.0,3.0,2.0,1928.0,Single family residential,1975.0,New
+8317 skyline blvd,Oakland,Alameda-County,Ca,94611,1750000.0,11,18.0,3.0,3.5,2334.0,Single family residential,1969.0,New
+427 cavour,Oakland,Alameda-County,Ca,94618,2395000.0,91,90.0,4.0,3.0,2128.0,Single family residential,2016.0,New
+1602 oregon st,Berkeley,Alameda-County,Ca,94703,995000.0,88,95.0,2.0,3.0,1480.0,Single family residential,1948.0,New
+260 caldecott ln #111,Oakland,Alameda-County,Ca,94618,499000.0,3,29.0,1.0,1.0,728.0,Condo,1997.0,New
+745 keeler ave,Berkeley,Alameda-County,Ca,94708,1495000.0,27,26.0,3.0,2.0,1591.0,Single family residential,1947.0,New
+38419 timpanogas cir,Fremont,Alameda-County,Ca,94536,1598888.0,13,53.0,3.0,2.0,1520.0,Single family home,1955.0,Active
+1950 fairbanks st,San leandro,Alameda-County,Ca,94577,775000.0,67,86.0,3.0,1.0,1141.0,Single family residential,1951.0,New
+19713 mabel pl,Castro valley,Alameda-County,Ca,94546,949000.0,66,55.0,3.0,2.0,1860.0,Single family residential,1980.0,New
+5405 carlton st #402,Oakland,Alameda-County,Ca,94618,979000.0,77,62.0,2.0,2.0,1219.0,Condo,1966.0,New
+19579 carlton ave,Castro valley,Alameda-County,Ca,94546,995000.0,41,26.0,3.0,2.0,1486.0,Single family residential,1963.0,New
+103 glen ave,Oakland,Alameda-County,Ca,94611,1398000.0,97,57.0,3.0,3.0,1732.0,Single family residential,1912.0,New
+4916 canary dr,Pleasanton,Alameda-County,Ca,94566,1499000.0,55,63.0,4.0,2.0,1708.0,Single family residential,1967.0,New
+38985 gar ter,Fremont,Alameda-County,Ca,94536,1100000.0,57,77.0,3.0,2.5,1400.0,Townhouse,1996.0,Active
+137 thousand oaks,Oakland,Alameda-County,Ca,94605,975000.0,5,8.0,3.0,2.5,1636.0,Townhouse,1977.0,New
+850 w grand #2,Oakland,Alameda-County,Ca,94607,588000.0,92,99.0,1.0,2.0,1527.0,Condo,2003.0,Active
+2015 spirit way,San leandro,Alameda-County,Ca,94579,1198000.0,37,50.0,4.0,2.5,2255.0,Single family home,1999.0,Active
+1710 36th ave,Oakland,Alameda-County,Ca,94601,699000.0,91,80.0,4.0,2.0,3692.0,Multi-family (2-4 unit),1900.0,New
+128 euclid ave,San leandro,Alameda-County,Ca,94577,1049000.0,90,71.0,3.0,2.0,1227.0,Single family residential,1925.0,New
+1212 gomer st,Hayward,Alameda-County,Ca,94544,929000.0,62,64.0,3.0,2.0,1264.0,Single family residential,1956.0,New
+649 abbie st,Pleasanton,Alameda-County,Ca,94566,2395000.0,30,36.0,5.0,3.0,3076.0,Single family residential,1984.0,New
+1251 82nd ave,Oakland,Alameda-County,Ca,94621,549000.0,79,64.0,6.0,2.0,1952.0,Multi-family (2-4 unit),1910.0,New
+3505 sutton loop,Fremont,Alameda-County,Ca,94536,1549900.0,39,57.0,3.0,2.0,1680.0,Single family residential,1964.0,New
+923 euclid ave,Berkeley,Alameda-County,Ca,94708,1495000.0,34,31.0,3.0,2.0,2272.0,Single family residential,1923.0,New
+2475 ascot,Union city,Alameda-County,Ca,94587,1288880.0,49,48.0,4.0,3.0,1489.0,Single family residential,1968.0,Price change
+1188 cherrybrooke,San leandro,Alameda-County,Ca,94578,950000.0,85,58.0,4.0,2.5,1957.0,Single family home,2005.0,Active
+1732 7th ave,Oakland,Alameda-County,Ca,94606,1050000.0,92,83.0,4.0,4.0,2753.0,Multi-family (2-4 unit),1920.0,New
+3821 buell,Oakland,Alameda-County,Ca,94619,649000.0,57,48.0,3.0,2.5,1474.0,Townhouse,2003.0,New
+14358 tiburon rd,San leandro,Alameda-County,Ca,94577,849000.0,60,58.0,4.0,2.0,1464.0,Single family residential,1963.0,New
+16716 kildare rd,San leandro,Alameda-County,Ca,94578,843000.0,27,11.0,4.0,3.0,3412.0,Single family residential,1962.0,New
+2453 becket dr,Union city,Alameda-County,Ca,94587,1299888.0,47,46.0,4.0,2.0,1489.0,Single family residential,1969.0,New
+21062 gary dr #110,Hayward,Alameda-County,Ca,94546,575000.0,54,36.0,2.0,2.0,1050.0,Condo,1980.0,New
+2077 washington ave #110,San leandro,Alameda-County,Ca,94577,352000.0,91,85.0,1.0,1.0,618.0,Condo,1984.0,New
+3385 dublin blvd #243,Dublin,Alameda-County,Ca,94568,699000.0,58,61.0,2.0,2.0,1066.0,Condo,2007.0,Active
+738 neilson st,Berkeley,Alameda-County,Ca,94707,1095000.0,90,73.0,2.0,1.0,996.0,Single family residential,1922.0,New
+9841 maddux dr,Oakland,Alameda-County,Ca,94603,599999.0,60,58.0,3.0,2.0,1075.0,Single family residential,1942.0,New
+174 haas ave,San leandro,Alameda-County,Ca,94577,875000.0,89,63.0,3.0,2.0,1732.0,Single family residential,1912.0,Active
+3836 scamman ct,Fremont,Alameda-County,Ca,94538,1498888.0,82,69.0,3.0,2.0,1626.0,Single family residential,1954.0,New
+2522 admiral cir,Hayward,Alameda-County,Ca,94545,1279900.0,46,51.0,4.0,3.0,2160.0,Single family residential,2016.0,New
+6153 madelaine dr,Newark,Alameda-County,Ca,94560,1290000.0,47,43.0,3.0,2.0,1442.0,Single family home,1959.0,Active
+3278 helen st,Oakland,Alameda-County,Ca,94608,1495000.0,85,97.0,3.0,2.5,1809.0,Single family residential,2021.0,New
+27530 stromberg ct,Hayward,Alameda-County,Ca,94545,650000.0,67,58.0,3.0,1.5,1254.0,Townhouse,1970.0,New
+1457 via manzanas,San lorenzo,Alameda-County,Ca,94580,850000.0,54,47.0,3.0,1.0,1050.0,Single family residential,1951.0,Active
+5005 crystal ridge ct,Oakland,Alameda-County,Ca,94605,1599950.0,5,7.0,3.0,2.5,2191.0,Single family residential,1989.0,New
+2524 76th ave,Oakland,Alameda-County,Ca,94605,350000.0,79,63.0,3.0,1.0,904.0,Single family residential,1925.0,Active
+9 eclipse ct,Alameda,Alameda-County,Ca,94501,949000.0,69,81.0,2.0,2.0,1330.0,Condo,1988.0,New
+5 eclipse ct,Alameda,Alameda-County,Ca,94501,949000.0,69,81.0,2.0,2.0,1292.0,Condo,1988.0,New
+7583 carlow way,Dublin,Alameda-County,Ca,94568,1145000.0,48,50.0,4.0,2.0,1475.0,Single family residential,1963.0,New
+3390 dwight way,Berkeley,Alameda-County,Ca,94704,2199991.0,22,26.0,5.0,4.0,3480.0,Single family residential,1986.0,New
+3128 el sereno,Alameda,Alameda-County,Ca,94502,919000.0,66,77.0,4.0,2.5,1628.0,Townhouse,1968.0,New
+724 36th st,Oakland,Alameda-County,Ca,94609,724999.0,80,92.0,3.0,1.5,1734.0,Single family residential,1911.0,New
+1092 andalucia st,Livermore,Alameda-County,Ca,94550,990000.0,26,72.0,3.0,2.0,1320.0,Single family residential,1963.0,New
+1691 macarthur blvd,Oakland,Alameda-County,Ca,94602,849888.0,91,70.0,4.0,2.0,2486.0,Single family residential,1914.0,New
+1401 walnut unit 1a,Berkeley,Alameda-County,Ca,94709-14,1160000.0,94,88.0,2.0,2.0,1658.0,Condo,1960.0,New
+Undisclosed address,Oakland,Alameda-County,Ca,94605,1498000.0,7,16.0,4.0,3.0,2700.0,Single family residential,1964.0,New
+1330 haskell st,Berkeley,Alameda-County,Ca,94702,699975.0,89,91.0,3.0,2.0,1215.0,Multi-family (2-4 unit),1919.0,New
+8107 arroyo dr #2,Pleasanton,Alameda-County,Ca,94588,549000.0,7,46.0,2.0,1.0,903.0,Townhouse,1972.0,New
+1631 51st ave,Oakland,Alameda-County,Ca,94601-0000,648888.0,91,74.0,3.0,1.5,1101.0,Single family residential,1910.0,New
+26667 wauchula way,Hayward,Alameda-County,Ca,94545,850000.0,60,65.0,3.0,2.0,1128.0,Single family residential,1957.0,New
+667 delve ct,Hayward,Alameda-County,Ca,94544,783120.0,64,56.0,2.0,2.0,1286.0,Condo,2022.0,Active
+24047 edloe dr,Hayward,Alameda-County,Ca,94541,779888.0,66,58.0,3.0,1.0,1261.0,Single family residential,1953.0,New
+1149 hearst ave,Berkeley,Alameda-County,Ca,94702,849000.0,96,100.0,2.0,2.0,1433.0,Condo,1991.0,New
+713 pacific ave,Alameda,Alameda-County,Ca,94501,1450000.0,93,79.0,3.0,3.0,2203.0,Multi-family (2-4 unit),1924.0,New
+26337 huntwood ave,Hayward,Alameda-County,Ca,94544,789999.0,27,51.0,3.0,2.0,1142.0,Single family residential,1954.0,New
+6827 langmuir ln,Dublin,Alameda-County,Ca,94568,975000.0,27,68.0,3.0,2.0,1053.0,Single family residential,1964.0,New
+6512 garrone ave,Newark,Alameda-County,Ca,94560,999999.0,64,55.0,4.0,2.0,1450.0,Single family residential,1960.0,New
+553 olympic,Hayward,Alameda-County,Ca,94544,1500000.0,47,66.0,5.0,3.0,2321.0,Single family residential,2000.0,New
+39206 guardino dr #210,Fremont,Alameda-County,Ca,94538,479000.0,26,63.0,1.0,1.0,693.0,Condo,1990.0,New
+4353 margery dr,Fremont,Alameda-County,Ca,94538,1200000.0,55,51.0,3.0,2.0,1107.0,Single family residential,1958.0,New
+16 garden rd,Alameda,Alameda-County,Ca,94502,998000.0,58,82.0,2.0,2.0,1841.0,Single family residential,1947.0,New
+3619 midvale ave,Oakland,Alameda-County,Ca,94602,899000.0,87,59.0,2.0,1.0,958.0,Single family residential,1921.0,New
+2057 emerson st,Berkeley,Alameda-County,Ca,94703,1299000.0,94,98.0,4.0,2.0,2359.0,Residential income,1900.0,Active
+817 henry st,Oakland,Alameda-County,Ca,94607,589000.0,82,99.0,1.0,1.0,740.0,Single family residential,1920.0,New
+3011 risdon dr #8,Union city,Alameda-County,Ca,94587,639950.0,72,50.0,2.0,2.0,908.0,Condo,1987.0,New
+4467 red oak cmn,Fremont,Alameda-County,Ca,94538,1650000.0,54,50.0,3.0,2.5,1633.0,Single family residential,1986.0,New
+817 santa clara ave,Alameda,Alameda-County,Ca,94501,1495000.0,92,81.0,3.0,1.5,2184.0,Single family residential,1895.0,New
+15087 andover st,San leandro,Alameda-County,Ca,94579,898800.0,83,54.0,3.0,1.0,1340.0,Single family residential,1949.0,New
+240 scherman way,Livermore,Alameda-County,Ca,94550,1299000.0,17,62.0,4.0,2.0,1527.0,Single family residential,1971.0,New
+1409 oxford #1,Berkeley,Alameda-County,Ca,94709,876000.0,92,79.0,2.0,2.0,954.0,Condo,1962.0,New
+1115 72nd ave,Oakland,Alameda-County,Ca,94621,600000.0,76,66.0,3.0,2.0,1389.0,Single family residential,1948.0,New
+23420 maud ave,Hayward,Alameda-County,Ca,94541,2350000.0,21,12.0,2.0,1.0,1626.0,Single family home,1890.0,Active
+38345 blacow rd,Fremont,Alameda-County,Ca,94536,1350000.0,53,44.0,4.0,2.0,1607.0,Single family residential,1959.0,New
+410 webster st #2,Oakland,Alameda-County,Ca,94607,549000.0,98,81.0,1.0,1.0,878.0,Condo,2018.0,Price change
+801 franklin st #1005,Oakland,Alameda-County,Ca,94607,535000.0,100,84.0,2.0,1.5,1140.0,Condo,1976.0,Active
+6466 hollis st #336,Emeryville,Alameda-County,Ca,94608,573200.0,89,97.0,2.0,2.5,1130.0,Condo,2008.0,Active
+630 thomas l berkley way #801,Oakland,Alameda-County,Ca,94612,649000.0,97,96.0,1.0,1.0,873.0,Condo,2009.0,New
+34806 starling dr #3,Union city,Alameda-County,Ca,94587,545000.0,75,74.0,2.0,1.0,903.0,Condo,1972.0,Active
+3672 skyline dr,Hayward,Alameda-County,Ca,94542,999888.0,16,21.0,4.0,2.5,2067.0,Single family residential,1976.0,New
+215 hunter ave,Oakland,Alameda-County,Ca,94603,539900.0,52,57.0,3.0,1.0,782.0,Single family residential,1943.0,Price change
+647 saint francis way,Pleasanton,Alameda-County,Ca,94566,965000.0,68,61.0,3.0,2.5,1540.0,Townhouse,1984.0,Active
+665 s elmhurst ave,Oakland,Alameda-County,Ca,94603,498000.0,67,60.0,2.0,1.0,945.0,Single family home,1907.0,Active
+2613 central ct,Union city,Alameda-County,Ca,94587,1429999.0,47,60.0,4.0,2.0,1544.0,Single family home,1975.0,Active
+960 folsom ave,Hayward,Alameda-County,Ca,94544,899000.0,33,51.0,4.0,4.0,2010.0,Single family residential,1945.0,Active
+4762 driftwood,Fremont,Alameda-County,Ca,94536,1199000.0,37,45.0,3.0,2.0,1167.0,Single family residential,1955.0,Active
+15235 central ave,San leandro,Alameda-County,Ca,94578,829000.0,47,55.0,4.0,2.0,1632.0,Single family residential,1947.0,Active
+43154 calle familia,Fremont,Alameda-County,Ca,94539,2049888.0,63,53.0,4.0,3.5,2374.0,Single family residential,2017.0,Active
+5901 la salle,Oakland,Alameda-County,Ca,94611,1395000.0,87,40.0,3.0,2.5,2154.0,Single family residential,1946.0,Active
+1473 daily dr,San leandro,Alameda-County,Ca,94577,1225000.0,11,3.0,3.0,2.5,3200.0,Single family residential,1958.0,Active
+27496 ponderosa ct,Hayward,Alameda-County,Ca,94545,730000.0,64,66.0,4.0,2.5,1474.0,Townhouse,1970.0,Active
+1449 auseon ave,Oakland,Alameda-County,Ca,94621,599000.0,78,58.0,3.0,2.0,1477.0,Single family residential,1924.0,Active
+24123 amaranth loop,Hayward,Alameda-County,Ca,94541,1288000.0,53,22.0,5.0,4.0,2493.0,Single family residential,2019.0,Active
+1011 zinfandel ct,Pleasanton,Alameda-County,Ca,94566,2498000.0,19,10.0,5.0,3.0,3350.0,Single family residential,1987.0,Active
+17041 via andeta,San lorenzo,Alameda-County,Ca,94580-3101,599000.0,66,64.0,3.0,1.0,1480.0,Single family residential,1944.0,Active
+3936 hanly rd,Oakland,Alameda-County,Ca,94602,1095000.0,74,38.0,3.0,2.0,1651.0,Single family residential,1926.0,Active
+6608 dana st,Oakland,Alameda-County,Ca,94609,725000.0,88,99.0,2.0,1.0,1225.0,Condo,1980.0,Active
+3030 lynde st,Oakland,Alameda-County,Ca,94601,850000.0,80,57.0,3.0,1.5,1543.0,Single family residential,1931.0,Active
+43139 calle sagrada,Fremont,Alameda-County,Ca,94539,1995000.0,63,53.0,4.0,3.5,2374.0,Single family residential,2019.0,Active
+2161 armstrong dr,Pleasanton,Alameda-County,Ca,94588,1358800.0,46,74.0,3.0,2.5,1468.0,Single family residential,1984.0,Active
+4717 michelle way,Union city,Alameda-County,Ca,94587,1450000.0,13,45.0,5.0,2.0,1926.0,Single family residential,1974.0,Active
+3239 c louise st,Oakland,Alameda-County,Ca,94608,1095000.0,85,98.0,3.0,3.5,2008.0,Single family residential,2017.0,Active
+93 fawn dr,Livermore,Alameda-County,Ca,94550,1249000.0,11,59.0,4.0,2.5,1735.0,Single family residential,2000.0,Active
+3849 west st,Oakland,Alameda-County,Ca,94608,975000.0,87,99.0,3.0,3.0,1602.0,Single family residential,2022.0,Active
+6728 charing cross,Berkeley,Alameda-County,Ca,94705,2950000.0,11,30.0,4.0,4.5,3020.0,Single family residential,2022.0,Active
+135 tunnel rd,Berkeley,Alameda-County,Ca,94705,1949000.0,77,66.0,4.0,2.5,2904.0,Single family residential,1912.0,Active
+4722 congress ave,Oakland,Alameda-County,Ca,94601,899000.0,73,37.0,3.0,2.0,1204.0,Single family residential,1983.0,Active
+1 barker ct,Alameda,Alameda-County,Ca,94501,1198800.0,86,89.0,3.0,2.5,1622.0,Single family residential,1998.0,Active
+1400 carpentier #235,San leandro,Alameda-County,Ca,94577,441000.0,94,75.0,1.0,1.0,804.0,Condo,1983.0,Active
+1220 broadway,Alameda,Alameda-County,Ca,94501,998000.0,89,82.0,3.0,2.0,1834.0,Single family residential,1910.0,Active
+4836 christine ct,Union city,Alameda-County,Ca,94587,1150000.0,9,50.0,3.0,2.0,1374.0,Single family residential,1975.0,Active
+1506 agatha ct,Livermore,Alameda-County,Ca,94550,1859777.0,19,65.0,5.0,3.5,3149.0,Single family residential,1999.0,Active
+6363 christie ave #2601,Emeryville,Alameda-County,Ca,94608,488880.0,71,91.0,1.0,1.0,634.0,Condo,1984.0,Active
+6831 herrin way,Pleasanton,Alameda-County,Ca,94588,1498000.0,41,68.0,5.0,3.0,2050.0,Single family residential,1976.0,Active
+5517 gracen way,Dublin,Alameda-County,Ca,94568,1396998.0,20,61.0,5.0,4.0,2738.0,Condo,2019.0,Active
+503 lancaster st #3,Oakland,Alameda-County,Ca,94601,795000.0,86,89.0,1.0,2.0,1870.0,Townhouse,2006.0,Active
+2476 normandy cir,Livermore,Alameda-County,Ca,94550,2389000.0,24,47.0,5.0,4.0,3382.0,Single family residential,1997.0,Active
+3302 smoketree commons dr,Pleasanton,Alameda-County,Ca,94566,525000.0,51,66.0,1.0,1.0,648.0,Condo,1988.0,Active
+24719 townsend ave,Hayward,Alameda-County,Ca,94544,889000.0,68,58.0,3.0,2.0,1419.0,Single family residential,1958.0,Active
+29358 sandburg way,Hayward,Alameda-County,Ca,94544,330000.0,55,66.0,2.0,2.0,1512.0,Mobile/manufactured home,1977.0,Active
+16032 via descanso,San lorenzo,Alameda-County,Ca,94580,749000.0,72,64.0,3.0,1.0,1000.0,Single family residential,1944.0,Active
+4574 ellen way,Union city,Alameda-County,Ca,94587,1398000.0,30,42.0,4.0,2.5,1907.0,Single family home,1972.0,Active
+5025 woodminster ln #104,Oakland,Alameda-County,Ca,94602,599999.0,42,27.0,2.0,1.0,1071.0,Condo,1966.0,Active
+2828 encinal,Alameda,Alameda-County,Ca,94501,898000.0,81,83.0,2.0,1.0,1000.0,Single family residential,1900.0,Active
+9 selborne dr,Piedmont,Alameda-County,Ca,94611,2695000.0,39,22.0,4.0,3.5,3758.0,Single family residential,1953.0,Active
+37490 parish cir unit 19e,Fremont,Alameda-County,Ca,94536,649000.0,75,60.0,2.0,2.0,942.0,Condo,1989.0,Active
+5811 wilma ct,Livermore,Alameda-County,Ca,94550,1774888.0,19,61.0,5.0,3.5,3433.0,Single family residential,1998.0,Active
+565 bellevue ave unit 908a,Oakland,Alameda-County,Ca,94610,686000.0,91,95.0,1.0,2.0,860.0,Condo,1969.0,Active
+39078 guardino dr #106,Fremont,Alameda-County,Ca,94538,498000.0,45,64.0,1.0,1.0,693.0,Condo,1990.0,Active
+15956 e 14th st #104,San leandro,Alameda-County,Ca,94578,550000.0,81,60.0,2.0,2.0,918.0,Condo,2008.0,Active
+18625 w cavendish dr,Castro valley,Alameda-County,Ca,94552-1736,2388888.0,9,3.0,4.0,3.0,2550.0,Single family residential,1983.0,Active
+6665 albyn ct,Newark,Alameda-County,Ca,94560,1098000.0,67,51.0,3.0,2.0,1140.0,Single family home,1958.0,Active
+3587 wyndham dr,Fremont,Alameda-County,Ca,94536,1649000.0,49,54.0,4.0,2.0,1714.0,Single family residential,1972.0,Price change
+1115 trestle glen rd,Oakland,Alameda-County,Ca,94610-2518,1089000.0,63,56.0,2.0,2.0,1466.0,Single family residential,1958.0,Active
+1971 arrowhead dr,Oakland,Alameda-County,Ca,94611-1447,1275000.0,6,25.0,4.0,3.0,2758.0,Single family residential,1947.0,Price change
+2710 clay st,Alameda,Alameda-County,Ca,94501,1695000.0,70,75.0,4.0,2.5,2500.0,Single family residential,1925.0,Active
+6685 aitken dr,Oakland,Alameda-County,Ca,94611,1249000.0,5,23.0,4.0,3.5,3481.0,Single family residential,1965.0,Active
+Undisclosed address,Alameda,Alameda-County,Ca,94501,700000.0,94,74.0,2.0,1.5,962.0,Condo,1975.0,Active
+314 toscana way,Hayward,Alameda-County,Ca,94545,899000.0,52,45.0,3.0,2.5,1998.0,Single family residential,2009.0,Active
+25290 ironwood ct,Hayward,Alameda-County,Ca,94545,799000.0,55,38.0,3.0,2.5,1495.0,Condo,1980.0,Active
+8406 dowling st,Oakland,Alameda-County,Ca,94605,500000.0,71,64.0,3.0,1.0,964.0,Single family residential,1925.0,Active
+265 garnet dr,Livermore,Alameda-County,Ca,94550,1200000.0,12,65.0,4.0,3.0,1848.0,Single family residential,1967.0,Active
+6321 marguerite dr,Newark,Alameda-County,Ca,94560,1490000.0,51,43.0,5.0,3.0,2095.0,Single family residential,1963.0,Price change
+4638 lockridge way,Castro valley,Alameda-County,Ca,94546,1450000.0,37,24.0,4.0,2.5,2092.0,Single family residential,1960.0,Active
+5416 princeton st,Oakland,Alameda-County,Ca,94601,599000.0,87,62.0,3.0,1.0,1215.0,Single family residential,1914.0,Active
+16041 silverleaf dr,San lorenzo,Alameda-County,Ca,94580,979000.0,64,52.0,4.0,3.0,1948.0,Single family residential,1996.0,Active
+1234 pease ct,Alameda,Alameda-County,Ca,94501,995000.0,89,82.0,2.0,2.0,1434.0,Single family residential,1895.0,Active
+1049 61st st,Oakland,Alameda-County,Ca,94608,1495000.0,89,87.0,3.0,2.5,2189.0,Single family residential,2022.0,Active
+1507 tyler st,Berkeley,Alameda-County,Ca,94703,1098000.0,89,95.0,3.0,2.5,1328.0,Single family residential,1924.0,Active
+4382 sunset view dr,Dublin,Alameda-County,Ca,94582,1799000.0,14,15.0,4.0,2.5,2102.0,Single family residential,2015.0,Active
+2278 marina blvd,San leandro,Alameda-County,Ca,94577,868000.0,75,82.0,3.0,2.0,1447.0,Single family home,1990.0,Active
+1392 holman rd,Oakland,Alameda-County,Ca,94610,1089000.0,83,52.0,2.0,1.5,1305.0,Single family residential,1937.0,Pending
+22577 cisneros dr,Hayward,Alameda-County,Ca,94541,1145000.0,56,42.0,4.0,2.0,2088.0,Single family residential,2002.0,Active
+25742 underwood ave,Hayward,Alameda-County,Ca,94544,749000.0,73,65.0,3.0,1.0,1059.0,Single family residential,1952.0,Active
+3092 san andreas dr,Union city,Alameda-County,Ca,94587,898000.0,52,55.0,2.0,1.0,1195.0,Single family home,1970.0,Contingent
+325 wilson way,Larkspur,Marin-County,Ca,94939,1995000.0,2,12.0,4.0,2.5,2156.0,Single family residential,1966.0,Active
+30 knolltop ct,Novato,Marin-County,Ca,94945,1749000.0,5,12.0,3.0,2.5,2437.0,Single family residential,1984.0,Active
+7 clover hill ct,San rafael,Marin-County,Ca,94903,1495000.0,26,45.0,5.0,2.5,2016.0,Single family residential,1964.0,Active
+78 arnold dr,Novato,Marin-County,Ca,94949,817000.0,42,37.0,2.0,2.5,1428.0,Condo,1998.0,Active
+465 birch rd,Bolinas,Marin-County,Ca,94924,2225000.0,12,52.0,2.0,1.0,1819.0,Single family residential,1981.0,Active
+623 plum st,Novato,Marin-County,Ca,94945,949000.0,22,32.0,3.0,2.0,1361.0,Single family residential,1954.0,Active
+35 corte de sabla,Greenbrae,Marin-County,Ca,94904,1995000.0,57,77.0,4.0,2.5,2324.0,Single family residential,1954.0,Active
+79 robinhood dr,San rafael,Marin-County,Ca,94901,1650000.0,6,2.0,3.0,2.0,1566.0,Single family residential,1961.0,Active
+144 dominican dr,San rafael,Marin-County,Ca,94901,2195000.0,2,36.0,3.0,2.5,2455.0,Single family residential,1966.0,Active
+18 irene dr,Novato,Marin-County,Ca,94947,1395000.0,6,12.0,4.0,2.5,2258.0,Single family residential,1973.0,New
+30 magnolia ave,San anselmo,Marin-County,Ca,94960,1995000.0,93,72.0,3.0,2.5,2060.0,Single family residential,1940.0,Active
+19 tappan rd,San anselmo,Marin-County,Ca,94960,2495000.0,2,23.0,3.0,2.5,2296.0,Single family residential,1949.0,Active
+242 san felipe way,Novato,Marin-County,Ca,94945,1199000.0,56,59.0,4.0,2.0,1809.0,Single family residential,1963.0,Active
+54 walnut ave,Larkspur,Marin-County,Ca,94939,2950000.0,81,57.0,4.0,3.0,2026.0,Single family residential,1957.0,New
+21 bay rd,Fairfax,Marin-County,Ca,94930,945000.0,57,43.0,3.0,1.0,1200.0,Single family residential,1951.0,Active
+1115 b st #300,San rafael,Marin-County,Ca,94901,580000.0,93,49.0,2.0,1.0,789.0,Condo,1994.0,Active
+12 myrtle ln,San anselmo,Marin-County,Ca,94960,1695000.0,86,43.0,2.0,1.0,1722.0,Single family home,1918.0,Active
+5 wildflower ct,Corte madera,Marin-County,Ca,94925,2149000.0,41,38.0,3.0,2.5,1998.0,Single family residential,1999.0,Active
+39 sandpiper cir,Corte madera,Marin-County,Ca,94925,949000.0,63,87.0,2.0,2.5,1725.0,Condo,1981.0,Active
+1260 redwood blvd unit f,Novato,Marin-County,Ca,94947,479000.0,19,16.0,2.0,1.5,1024.0,Condo,1971.0,Active
+672 plum st,Novato,Marin-County,Ca,94945,888000.0,38,48.0,3.0,2.0,2543.0,Single family residential,1948.0,Active
+49 bedford cv,San rafael,Marin-County,Ca,94901,1525000.0,26,60.0,3.0,2.5,1790.0,Single family residential,1990.0,Active
+11 friendly ln,Novato,Marin-County,Ca,94945,879000.0,61,68.0,1.0,1.0,924.0,Single family residential,1940.0,Active
+35 ferdinand way,Novato,Marin-County,Ca,94949,1075000.0,35,18.0,3.0,3.0,1681.0,Single family residential,1999.0,Active
+12 partridge dr,San rafael,Marin-County,Ca,94901,1295000.0,13,21.0,3.0,2.0,1793.0,Townhouse,1989.0,Active
+456 via herbosa,Novato,Marin-County,Ca,94949,1275000.0,77,49.0,4.0,3.5,1951.0,Single family residential,1955.0,Active
+79 san miguel way,Novato,Marin-County,Ca,94945,1198000.0,49,35.0,4.0,3.0,2000.0,Single family residential,1970.0,Active
+523 seaver dr,Mill valley,Marin-County,Ca,94941,565000.0,31,54.0,1.0,1.0,696.0,Condo,1979.0,Active
+20 baccharis pl,Tiburon,Marin-County,Ca,94920,2850000.0,46,31.0,3.0,4.0,3381.0,Single family residential,1995.0,Active
+227 riviera dr,San rafael,Marin-County,Ca,94901,1700000.0,5,29.0,4.0,2.5,2371.0,Single family residential,1961.0,Active
+1579 s novato blvd #103,Novato,Marin-County,Ca,94947,625000.0,88,73.0,2.0,2.0,1175.0,Condo,1997.0,Active
+51 oakcrest dr,San rafael,Marin-County,Ca,94903,889000.0,28,16.0,4.0,2.5,2024.0,Townhouse,1979.0,Active
+50 montezuma ave,Forest knolls,Marin-County,Ca,94933,1150000.0,30,22.0,3.0,2.0,2050.0,Single family residential,1956.0,Active
+15 newport landing dr,Novato,Marin-County,Ca,94949,1299000.0,44,39.0,5.0,3.0,3006.0,Single family residential,2003.0,Active
+229 alpine st,San rafael,Marin-County,Ca,94901,1250000.0,40,32.0,2.0,2.0,1158.0,Single family residential,1943.0,Active
+53 corte roble,Novato,Marin-County,Ca,94949,1250000.0,34,22.0,3.0,2.5,1975.0,Single family residential,1958.0,Active
+9 monona dr,Corte madera,Marin-County,Ca,94926,1798000.0,82,89.0,4.0,1.5,1455.0,Single family residential,1953.0,Active
+111 meriam dr,San rafael,Marin-County,Ca,94903,1384500.0,38,33.0,3.0,2.5,2154.0,Single family residential,1956.0,Active
+87 skyline ter,Mill valley,Marin-County,Ca,94941,2195000.0,5,33.0,4.0,2.5,3329.0,Single family residential,1988.0,Active
+313 oakdale ave,Corte madera,Marin-County,Ca,94925,1495000.0,65,51.0,3.0,1.5,1219.0,Single family residential,1913.0,Active
+124 glen dr,Sausalito,Marin-County,Ca,94965,2549000.0,79,40.0,4.0,2.5,2565.0,Single family residential,1969.0,Active
+187 harrison ave,Sausalito,Marin-County,Ca,94965,3295000.0,83,42.0,3.0,2.5,2540.0,Single family residential,1979.0,Active
+842 hayden ave,Novato,Marin-County,Ca,94945,1150000.0,65,55.0,3.0,2.5,1888.0,Single family residential,1955.0,Active
+694 wilson ave,Novato,Marin-County,Ca,94947,1195000.0,31,25.0,3.0,2.0,1984.0,Single family residential,1981.0,Active
+142 cypress pl,Sausalito,Marin-County,Ca,94965,858000.0,80,83.0,2.0,2.0,990.0,Condo,1979.0,Active
+50 deer park ave,San rafael,Marin-County,Ca,94901,2111111.0,39,25.0,5.0,4.5,3457.0,Single family residential,1958.0,New
+48 woodleaf ct,Novato,Marin-County,Ca,94945,1395000.0,7,27.0,5.0,2.0,2329.0,Single family residential,1979.0,Active
+517 pixie trl,Mill valley,Marin-County,Ca,94941,1995000.0,27,30.0,4.0,3.0,2490.0,Single family residential,1945.0,Active
+490 canal st #13,San rafael,Marin-County,Ca,94901,665000.0,73,70.0,2.0,2.5,1428.0,Condo,1975.0,Active
+81 spring ln,Fairfax,Marin-County,Ca,94930,1599000.0,32,35.0,1.0,1.0,1320.0,Single family residential,1934.0,Active
+364 peachstone ter,San rafael,Marin-County,Ca,94903,1249000.0,39,50.0,4.0,2.0,1793.0,Single family residential,1955.0,Active
+50 sonoma st #21,San rafael,Marin-County,Ca,94901,399000.0,71,64.0,2.0,1.0,966.0,Condo,1962.0,Active
+1 sunrise ave,Mill valley,Marin-County,Ca,94941,2195000.0,80,53.0,4.0,2.5,1979.0,Single family residential,1912.0,Active
+61 conifer way,Woodacre,Marin-County,Ca,94973,689000.0,8,23.0,1.0,1.5,991.0,Single family residential,1932.0,Active
+223 butterfield dr,Novato,Marin-County,Ca,94945,1195000.0,0,20.0,3.0,2.0,1885.0,Single family residential,1988.0,Active
+54 dolores st,San rafael,Marin-County,Ca,94901,1295000.0,70,69.0,4.0,2.0,1722.0,Single family residential,1948.0,Active
+338 sausalito blvd,Sausalito,Marin-County,Ca,94965,1495000.0,63,28.0,2.0,1.5,1606.0,Condo,1970.0,Active
+32 midway ln,Fairfax,Marin-County,Ca,94930,840000.0,29,41.0,2.0,2.0,1160.0,Single family residential,1918.0,Active
+22 birchwood dr,Novato,Marin-County,Ca,94947,720000.0,13,15.0,3.0,2.5,1454.0,Townhouse,1990.0,Active
+3 suffield ave,San anselmo,Marin-County,Ca,94960,1090000.0,79,76.0,3.0,1.0,1502.0,Single family residential,1930.0,Active
+24 anchorage rd,Sausalito,Marin-County,Ca,94965,545000.0,70,51.0,1.0,1.0,794.0,Condo,1969.0,Active
+100 thorndale dr #133,San rafael,Marin-County,Ca,94903,405000.0,38,26.0,2.0,2.0,1110.0,Condo,1985.0,Active
+2055 shady ln,Novato,Marin-County,Ca,94945,935000.0,43,32.0,4.0,2.0,1848.0,Single family residential,1959.0,Active
+11 stasia dr,Novato,Marin-County,Ca,94947,1150000.0,15,33.0,3.0,2.0,1320.0,Single family residential,1963.0,Active
+39 montevideo way,San rafael,Marin-County,Ca,94903,2498000.0,13,31.0,5.0,3.0,3056.0,Single family residential,1996.0,Active
+139 barber ave,San anselmo,Marin-County,Ca,94960,2795000.0,83,43.0,4.0,2.5,2566.0,Single family residential,1949.0,Active
+15 hazel ave,Larkspur,Marin-County,Ca,94939,1950000.0,71,45.0,2.0,2.0,1550.0,Single family residential,1975.0,Active
+13 laurel grove ave,Kentfield,Marin-County,Ca,94904,2425000.0,55,77.0,4.0,2.0,2148.0,Single family residential,1953.0,Active
+32 sunnyside rd,Inverness,Marin-County,Ca,94937,1595000.0,1,9.0,2.0,2.0,1393.0,Single family residential,1967.0,Active
+565 via casitas #23,Greenbrae,Marin-County,Ca,94904,799000.0,40,49.0,2.0,2.0,1355.0,Condo,1973.0,Active
+334 durant way,Mill valley,Marin-County,Ca,94941,2085000.0,25,27.0,4.0,2.5,2171.0,Single family residential,1972.0,Active
+695 barberry ln,San rafael,Marin-County,Ca,94903,1995000.0,62,58.0,4.0,2.0,1794.0,Single family residential,1955.0,Active
+135 mount whitney ct,San rafael,Marin-County,Ca,94903,1750000.0,5,25.0,3.0,2.0,1942.0,Single family residential,1963.0,Active
+59 convent ct,San rafael,Marin-County,Ca,94901,2195000.0,3,19.0,4.0,3.0,2546.0,Single family residential,1968.0,Active
+155 pebble beach dr,Novato,Marin-County,Ca,94949,1800000.0,40,19.0,4.0,3.5,3505.0,Single family residential,1974.0,Active
+8 jackson ct,Novato,Marin-County,Ca,94947,1529000.0,12,4.0,4.0,3.0,2879.0,Single family residential,2001.0,Active
+26 margarita ter,Novato,Marin-County,Ca,94947,549000.0,49,24.0,2.0,2.0,1183.0,Condo,1979.0,Active
+155 cerro crest dr,Novato,Marin-County,Ca,94945,1749000.0,3,2.0,6.0,3.5,3882.0,Single family residential,1975.0,Active
+95 broadmoor ct,Novato,Marin-County,Ca,94949,1895000.0,1,3.0,4.0,3.0,2456.0,Single family residential,1968.0,Active
+25 geldert dr,Tiburon,Marin-County,Ca,94920,2349000.0,9,31.0,3.0,2.0,2012.0,Single family residential,1960.0,Active
+616 oak manor dr,Fairfax,Marin-County,Ca,94930,1195000.0,3,19.0,3.0,2.0,1288.0,Single family residential,1961.0,Active
+36 plumas cir,Novato,Marin-County,Ca,94947,465000.0,12,41.0,2.0,1.0,810.0,Condo,1972.0,Active
+354 e strawberry dr,Mill valley,Marin-County,Ca,94941,2495000.0,20,20.0,3.0,3.0,2611.0,Single family residential,1971.0,Active
+9 isabella ct,Novato,Marin-County,Ca,94945,1195000.0,18,33.0,4.0,2.5,2095.0,Single family residential,1967.0,Active
+484 panoramic hwy,Mill valley,Marin-County,Ca,94941,2495000.0,7,31.0,3.0,3.0,2700.0,Single family residential,1997.0,Active
+374 ridgewood ave,Mill valley,Marin-County,Ca,94941,2200000.0,30,29.0,4.0,3.0,2076.0,Single family residential,1962.0,Active
+22 rubicon ct,San rafael,Marin-County,Ca,94903,2200000.0,4,26.0,3.0,2.5,2460.0,Single family residential,1963.0,Active
+12 rose ct,Novato,Marin-County,Ca,94945,2000000.0,5,28.0,4.0,4.5,2960.0,Single family residential,2017.0,Active
+181 caribe isle,Novato,Marin-County,Ca,94949,1875000.0,5,32.0,3.0,2.0,1667.0,Single family residential,1964.0,Active
+224 seagull row,Novato,Marin-County,Ca,94945,361350.0,37,63.0,1.0,1.0,624.0,Condo,1989.0,Active
+169 marina vista ave,Larkspur,Marin-County,Ca,94939,2795000.0,34,37.0,3.0,2.5,2160.0,Single family residential,1968.0,Active
+28 drakes view cir,Greenbrae,Marin-County,Ca,94904,1695000.0,58,72.0,3.0,2.5,1886.0,Condo,1986.0,Active
+503 headlands ct,Sausalito,Marin-County,Ca,94965,1015000.0,22,54.0,2.0,2.5,1225.0,Condo,1981.0,Active
+1587 s novato blvd #303,Novato,Marin-County,Ca,94947,698000.0,88,73.0,2.0,2.0,1175.0,Condo,1999.0,Active
+7 macannan ct,Tiburon,Marin-County,Ca,94920,1898000.0,17,51.0,3.0,2.0,1532.0,Single family residential,1958.0,Active
+276 morning sun ave,Mill valley,Marin-County,Ca,94941,1585000.0,60,63.0,3.0,2.0,1119.0,Single family home,1962.0,Active
+237 morning sun ave,Mill valley,Marin-County,Ca,94941,1050000.0,60,66.0,1.0,1.0,556.0,Single family residential,1930.0,Active
+27 gate 6 1/2 rd,Sausalito,Marin-County,Ca,94965,1500000.0,56,81.0,2.0,2.5,1200.0,Mobile/manufactured home,2021.0,Active
+610 manuel dr,Novato,Marin-County,Ca,94945,899000.0,41,52.0,3.0,2.0,1247.0,Single family residential,1952.0,Active
+737 miller ave,Mill valley,Marin-County,Ca,94941,849000.0,37,89.0,1.0,1.0,862.0,Condo,1984.0,Active
+732 belle ave,San rafael,Marin-County,Ca,94901,1399000.0,83,71.0,3.0,2.0,1328.0,Single family residential,1966.0,Active
+332 prospect dr,San rafael,Marin-County,Ca,94901,1350000.0,32,45.0,3.0,2.0,2608.0,Single family residential,1950.0,Active
+75 mountain view rd,Fairfax,Marin-County,Ca,94930,1495000.0,34,42.0,3.0,2.0,2375.0,Single family residential,1941.0,Active
+68 peacock dr,San rafael,Marin-County,Ca,94901,1995000.0,5,31.0,4.0,2.0,2313.0,Single family residential,1964.0,Active
+635 montecillo rd,San rafael,Marin-County,Ca,94903,1575000.0,66,52.0,4.0,2.0,2146.0,Single family residential,1955.0,Active
+558 miller creek rd,San rafael,Marin-County,Ca,94903,2495000.0,27,39.0,5.0,3.5,2915.0,Single family residential,1961.0,Active
+47 pigeon hollow rd,San rafael,Marin-County,Ca,94901,2000000.0,22,22.0,3.0,2.0,2210.0,Single family residential,1954.0,Active
+111 rollingwood dr,San rafael,Marin-County,Ca,94901,1995000.0,5,2.0,4.0,3.0,2407.0,Single family residential,1968.0,Active
+55 sais ave,San anselmo,Marin-County,Ca,94960,2695000.0,85,68.0,5.0,4.5,2830.0,Single family residential,1968.0,Active
+64 stanford ct,Novato,Marin-County,Ca,94947,1175000.0,35,22.0,4.0,2.5,2174.0,Single family residential,1966.0,Active
+8 welcome ln,San rafael,Marin-County,Ca,94901,1745000.0,12,18.0,3.0,3.0,1902.0,Single family residential,1950.0,Active
+276 shoreline hwy,Mill valley,Marin-County,Ca,94941,1595000.0,63,90.0,3.0,2.5,1686.0,Single family residential,1939.0,Active
+95 grande paseo dr,San rafael,Marin-County,Ca,94903,825000.0,38,26.0,3.0,2.5,1508.0,Townhouse,1966.0,Active
+51 jordan ave,San anselmo,Marin-County,Ca,94960,1795000.0,75,51.0,5.0,2.0,1977.0,Single family residential,1951.0,Active
+846 reichert ave #16,Novato,Marin-County,Ca,94945,695000.0,82,55.0,3.0,2.5,1891.0,Condo,1978.0,Active
+97 bulkley ave,Sausalito,Marin-County,Ca,94965,2500000.0,77,42.0,2.0,2.5,2179.0,Condo,1985.0,Active
+67 almenar dr,Greenbrae,Marin-County,Ca,94904,2095000.0,33,57.0,3.0,3.0,2150.0,Single family residential,1949.0,Active
+2 redwood ln,Mill valley,Marin-County,Ca,94941,1225000.0,61,33.0,3.0,2.0,1065.0,Single family residential,1961.0,Active
+218 4th st,Sausalito,Marin-County,Ca,94965,1999000.0,71,36.0,2.0,2.5,1625.0,Single family residential,1926.0,Active
+107 butterfield rd,San anselmo,Marin-County,Ca,94960,849000.0,63,76.0,3.0,1.5,1344.0,Single family residential,1910.0,Active
+112 santa maria dr,Novato,Marin-County,Ca,94947,1295000.0,17,2.0,3.0,2.0,1581.0,Single family residential,1971.0,Active
+172 tamalpais ave,Mill valley,Marin-County,Ca,94941,3500000.0,58,29.0,4.0,2.5,3000.0,Single family residential,1955.0,Active
+153 mariner green ct,Corte madera,Marin-County,Ca,94925,1000000.0,42,38.0,4.0,2.5,1500.0,Townhouse,1966.0,Active
+1600 san anselmo ave,San anselmo,Marin-County,Ca,94960,909000.0,68,72.0,4.0,2.0,2174.0,Single family residential,1913.0,Active
+28 bayview st,San rafael,Marin-County,Ca,94901,1949000.0,91,43.0,4.0,4.0,2030.0,Single family residential,1899.0,Active
+852 diablo ave #205,Novato,Marin-County,Ca,94947,620000.0,86,69.0,2.0,2.0,1284.0,Condo,2000.0,Active
+300 montezuma ave,Forest knolls,Marin-County,Ca,94933,625000.0,14,15.0,1.0,1.0,498.0,Single family residential,1922.0,Active
+40 fir ave,San geronimo,Marin-County,Ca,94963,1595000.0,20,24.0,3.0,3.5,3164.0,Single family residential,1981.0,Active
+3665 kerner blvd unit d,San rafael,Marin-County,Ca,94901,530000.0,78,64.0,3.0,2.0,1245.0,Condo,1963.0,Active
+1558 buchanan st,Novato,Marin-County,Ca,94947,1295000.0,41,44.0,4.0,3.0,2666.0,Single family residential,1959.0,Active
+140 stuyvesant dr,San anselmo,Marin-County,Ca,94960,1950000.0,1,26.0,4.0,2.0,1920.0,Single family residential,1973.0,Active
+105 quarry rd,Mill valley,Marin-County,Ca,94941,2895000.0,11,26.0,4.0,3.5,3515.0,Single family residential,1979.0,Active
+100 thorndale dr #211,San rafael,Marin-County,Ca,94903,517000.0,38,26.0,2.0,2.0,1154.0,Condo,1985.0,Active
+100 thorndale dr #146,San rafael,Marin-County,Ca,94903,159000.0,38,26.0,1.0,1.0,660.0,Condo,1985.0,Active
+105 caspar pl,Novato,Marin-County,Ca,94947,660000.0,25,42.0,3.0,2.0,1344.0,Condo,1973.0,Active
+736 via casitas,Greenbrae,Marin-County,Ca,94904,749000.0,46,55.0,2.0,2.0,954.0,Condo,1974.0,Active
+134 lovell ave,Mill valley,Marin-County,Ca,94941,2695000.0,81,33.0,3.0,1.5,1783.0,Single family residential,1903.0,Active
+65 corte amado,Greenbrae,Marin-County,Ca,94904,3295000.0,16,36.0,4.0,3.0,2920.0,Single family residential,1961.0,Active
+8 thornton ct,Novato,Marin-County,Ca,94945,998000.0,23,30.0,4.0,2.0,1866.0,Single family residential,1963.0,Active
+24 estrada ln,Corte madera,Marin-County,Ca,94925,1450000.0,55,68.0,3.0,2.0,1248.0,Single family residential,1957.0,Active
+190 glen park ave,San rafael,Marin-County,Ca,94901,1695000.0,29,47.0,3.0,2.0,2174.0,Single family residential,1975.0,Active
+240 elm rd,Bolinas,Marin-County,Ca,94924,1888000.0,12,49.0,4.0,3.0,1704.0,Single family residential,1965.0,Active
+171 morningside dr,San anselmo,Marin-County,Ca,94960,1995000.0,75,79.0,3.0,2.0,1862.0,Single family residential,1932.0,Active
+639 midway blvd,Novato,Marin-County,Ca,94947,1100000.0,11,10.0,3.0,2.0,1654.0,Single family residential,1962.0,Active
+401 nova albion way,San rafael,Marin-County,Ca,94903,1895000.0,46,35.0,4.0,2.0,1826.0,Single family residential,1960.0,Active
+48 holstrom cir,Novato,Marin-County,Ca,94947,1089000.0,35,50.0,3.0,2.0,1654.0,Single family residential,1985.0,Active
+1008 el granada cir,Novato,Marin-County,Ca,94949,444000.0,57,69.0,3.0,2.0,1680.0,Mobile/manufactured home,1973.0,Active
+100 deer valley rd unit 2e,San rafael,Marin-County,Ca,94903,829000.0,23,15.0,2.0,2.0,1259.0,Condo,1991.0,Active
+100 thorndale dr #251,San rafael,Marin-County,Ca,94903,450000.0,38,26.0,2.0,2.0,1030.0,Condo,1985.0,Active
+69 san luis ct,Novato,Marin-County,Ca,94945,1249000.0,17,22.0,4.0,3.0,2152.0,Single family residential,1968.0,Active
+14 canyon green loop,Novato,Marin-County,Ca,94947,1395000.0,48,17.0,4.0,3.0,2442.0,Single family residential,2014.0,Active
+13 dominican dr,San rafael,Marin-County,Ca,94901,1899000.0,13,24.0,4.0,3.0,2629.0,Single family residential,1961.0,Active
+600 deer valley rd unit 1s,San rafael,Marin-County,Ca,94903,725000.0,18,7.0,2.0,2.0,1259.0,Condo,1991.0,Active
+356 peachstone ter,San rafael,Marin-County,Ca,94903,1099900.0,39,50.0,3.0,2.0,1022.0,Single family residential,1955.0,Active
+6031 shelter bay ave,Mill valley,Marin-County,Ca,94941,1689000.0,39,80.0,2.0,2.0,1803.0,Condo,1986.0,Active
+527 s eliseo dr,Greenbrae,Marin-County,Ca,94904,1149000.0,44,60.0,2.0,2.0,1419.0,Condo,1978.0,Active
+35 glen ave,San rafael,Marin-County,Ca,94901,1265000.0,58,30.0,3.0,2.0,1317.0,Single family residential,1963.0,Active
+412 donahue st,Sausalito,Marin-County,Ca,94965,1295000.0,25,54.0,3.0,2.5,1651.0,Condo,1979.0,Active
+100 south st #213,Sausalito,Marin-County,Ca,94965,817000.0,67,38.0,1.0,1.0,810.0,Condo,1963.0,Active
+32 w castlewood dr,San rafael,Marin-County,Ca,94901,1795000.0,8,27.0,3.0,2.5,1894.0,Single family residential,1972.0,Active
+5 courtney way,Novato,Marin-County,Ca,94945,2000000.0,50,38.0,4.0,2.5,3496.0,Single family residential,2008.0,Active
+26 drakes cove ct,Larkspur,Marin-County,Ca,94939,3300000.0,33,40.0,4.0,3.5,3382.0,Single family residential,2016.0,Active
+2346 mar east st,Tiburon,Marin-County,Ca,94920,2800000.0,10,51.0,3.0,3.0,2430.0,Condo,1964.0,Active
+50 loch lomond dr,San rafael,Marin-County,Ca,94901,1395000.0,27,35.0,3.0,2.5,1796.0,Townhouse,2015.0,Active
+1419 buchanan st,Novato,Marin-County,Ca,94947,1125000.0,44,55.0,3.0,2.0,1480.0,Single family residential,1958.0,Active
+34 blanca dr,Novato,Marin-County,Ca,94947,1295000.0,17,2.0,4.0,2.5,2760.0,Single family residential,1970.0,Active
+502 willow ct,Novato,Marin-County,Ca,94945,1299900.0,14,12.0,5.0,2.5,2581.0,Single family residential,1974.0,Active
+81 pinheiro cir,Novato,Marin-County,Ca,94945,1515000.0,75,69.0,5.0,3.5,2857.0,Single family residential,2005.0,Active
+3 woodgate pl,Novato,Marin-County,Ca,94945,1599000.0,4,21.0,4.0,2.5,2612.0,Single family residential,1988.0,Active
+1717 grand ave,San rafael,Marin-County,Ca,94901,799000.0,48,64.0,2.0,1.5,1182.0,Townhouse,1974.0,Active
+6 rowe ranch way,Novato,Marin-County,Ca,94949,1899000.0,30,28.0,4.0,2.5,2920.0,Single family residential,2004.0,Active
+87 inverness way,Inverness,Marin-County,Ca,94937,1485000.0,41,27.0,2.0,1.0,970.0,Single family residential,1947.0,Active
+200 deer valley rd unit 2f,San rafael,Marin-County,Ca,94903,849000.0,23,15.0,2.0,2.0,1261.0,Condo,1991.0,Active
+297 shoreline hwy,Mill valley,Marin-County,Ca,94941,1140000.0,62,74.0,2.0,2.0,1330.0,Single family residential,1981.0,Active
+400 deer valley rd unit 2j,San rafael,Marin-County,Ca,94903,398000.0,27,12.0,1.0,1.0,772.0,Condo,1991.0,Active
+441 wood hollow dr,Novato,Marin-County,Ca,94945,1499000.0,1,15.0,4.0,2.5,2644.0,Single family residential,1989.0,Active
+100 thorndale dr #124,San rafael,Marin-County,Ca,94903,215000.0,38,26.0,1.0,1.0,770.0,Co-op,1985.0,Active
+75 carnoustie hts,Novato,Marin-County,Ca,94949,2695000.0,1,3.0,4.0,2.5,3246.0,Single family residential,1966.0,Active
+1146 highland dr,Novato,Marin-County,Ca,94949,1497750.0,11,17.0,3.0,2.0,2041.0,Single family residential,1988.0,Active
+82 anchorage rd,Sausalito,Marin-County,Ca,94965,539000.0,70,51.0,1.0,1.0,794.0,Condo,1969.0,Active
+5 stockstill way,Inverness,Marin-County,Ca,94937,1500000.0,0,16.0,2.0,2.0,1112.0,Single family residential,1987.0,Active
+41 bonnie banks way,San rafael,Marin-County,Ca,94901,2999999.0,17,29.0,4.0,3.0,3500.0,Single family residential,1970.0,Active
+50 old ranch rd,Novato,Marin-County,Ca,94947,2695000.0,0,1.0,3.0,4.0,3409.0,Single family residential,1964.0,Active
+349 jean st,Mill valley,Marin-County,Ca,94941,2175000.0,51,41.0,4.0,3.0,2197.0,Single family residential,1948.0,Active
+1587 s novato blvd #104,Novato,Marin-County,Ca,94947,645000.0,88,73.0,2.0,2.0,1268.0,Condo,1999.0,Active
+51 juarez ave,Forest knolls,Marin-County,Ca,94933,750000.0,34,26.0,2.0,1.0,1136.0,Single family residential,1959.0,Active
+35 newport landing dr,Novato,Marin-County,Ca,94949,1349000.0,47,54.0,3.0,2.5,2980.0,Single family residential,2002.0,Active
+31 carmelita ave,Mill valley,Marin-County,Ca,94941,2195000.0,84,58.0,3.0,2.0,1718.0,Single family residential,1918.0,Active
+23 aqua vista dr,San rafael,Marin-County,Ca,94901,1995000.0,29,61.0,3.0,2.5,2495.0,Single family residential,1964.0,Active
+45 corte real #7,Greenbrae,Marin-County,Ca,94904,850000.0,44,64.0,2.0,1.5,1120.0,Condo,1973.0,Active
+100 thorndale dr #222,San rafael,Marin-County,Ca,94903,250000.0,38,26.0,1.0,1.0,770.0,Condo,1985.0,Active
+113 rice ln,Larkspur,Marin-County,Ca,94939,1350000.0,85,82.0,3.0,2.0,1668.0,Single family residential,1949.0,Active
+19 acapulco ct,Novato,Marin-County,Ca,94949,655000.0,46,34.0,2.0,2.5,1216.0,Condo,1987.0,Active
+4 poppy pl,Novato,Marin-County,Ca,94949,1295000.0,75,60.0,3.0,3.5,2114.0,Single family residential,2003.0,Active
+24 midhill dr,Mill valley,Marin-County,Ca,94941,3295000.0,9,37.0,4.0,2.5,3231.0,Single family residential,1966.0,Active
+145 garner ct,Novato,Marin-County,Ca,94947,1399000.0,9,4.0,5.0,2.5,3730.0,Single family residential,1974.0,Active
+48 corte oriental way,Greenbrae,Marin-County,Ca,94904,925000.0,41,51.0,2.0,2.5,1267.0,Condo,1978.0,Active
+481 montecito ave,Corte madera,Marin-County,Ca,94925,2495000.0,39,41.0,2.0,2.0,1655.0,Single family residential,2018.0,Active
+600 deer valley rd unit 3b,San rafael,Marin-County,Ca,94903,625000.0,18,7.0,1.0,2.0,933.0,Condo,1991.0,Active
+120 miramar ave,San rafael,Marin-County,Ca,94901,2695000.0,85,45.0,4.0,3.0,3298.0,Single family residential,1906.0,Active
+55 los padres cir,Novato,Marin-County,Ca,94947,465000.0,28,27.0,2.0,1.0,872.0,Condo,1972.0,Active
+110 wisteria way,Mill valley,Marin-County,Ca,94941,3499000.0,42,61.0,4.0,4.0,2972.0,Single family residential,1924.0,Active
+6013 shelter bay ave,Mill valley,Marin-County,Ca,94941,1495000.0,39,80.0,2.0,2.5,1850.0,Condo,1983.0,Active
+503 w blithedale ave,Mill valley,Marin-County,Ca,94941,599000.0,9,18.0,2.0,1.0,858.0,Single family residential,1924.0,Active
+276 cascade dr,Fairfax,Marin-County,Ca,94930,525000.0,28,30.0,2.0,1.5,965.0,Single family residential,1923.0,Active
+79 billou st,San rafael,Marin-County,Ca,94901,1339100.0,72,64.0,4.0,2.5,1881.0,Single family residential,1947.0,Active
+100 thorndale dr #420,San rafael,Marin-County,Ca,94903,499000.0,38,26.0,2.0,2.0,1000.0,Condo,1985.0,Active
+1132 sir francis drake blvd,San anselmo,Marin-County,Ca,94960,1125000.0,79,62.0,3.0,2.0,1920.0,Single family residential,1929.0,Active
+6042 shelter bay ave,Mill valley,Marin-County,Ca,94941,1795000.0,30,80.0,3.0,2.5,2071.0,Condo,1986.0,Active
+Undisclosed address,Nicasio,Marin-County,Ca,94946,1795000.0,0,0.0,3.0,2.0,2509.0,Single family residential,1998.0,Active
+65 juanita ct,Novato,Marin-County,Ca,94945,1225000.0,40,49.0,4.0,2.5,1991.0,Single family residential,1965.0,Active
+60 hector ln,Novato,Marin-County,Ca,94949,499999.0,77,49.0,2.0,1.0,900.0,Condo,1986.0,Active
+596 riviera cir,Larkspur,Marin-County,Ca,94939,2699000.0,60,80.0,3.0,2.5,2110.0,Single family residential,1975.0,Active
+17 drakes view cir,Greenbrae,Marin-County,Ca,94904,1795000.0,67,76.0,3.0,2.5,2149.0,Condo,1986.0,Active
+22 truman dr,Novato,Marin-County,Ca,94947,1395000.0,15,5.0,4.0,3.0,2369.0,Single family residential,1963.0,Active
+20 corte real,Greenbrae,Marin-County,Ca,94904,875000.0,44,64.0,2.0,1.5,1348.0,Condo,1977.0,Active
+1717 novato blvd #27,Novato,Marin-County,Ca,94947,569000.0,82,63.0,2.0,1.5,1238.0,Townhouse,1979.0,Active
+113 pixley ave,Corte madera,Marin-County,Ca,94925,748000.0,73,67.0,2.0,2.0,1023.0,Condo,1962.0,Active
+672 woodbine dr,San rafael,Marin-County,Ca,94903,2285000.0,62,56.0,4.0,3.0,1852.0,Single family residential,1955.0,Active
+4 guisela ct,Novato,Marin-County,Ca,94945,1625000.0,0,1.0,3.0,3.5,3607.0,Single family residential,1991.0,Active
+31 ray ct,San rafael,Marin-County,Ca,94901,1875000.0,34,29.0,3.0,3.0,1675.0,Single family residential,1950.0,Active
+2201 5th ave,San rafael,Marin-County,Ca,94901,1775000.0,41,35.0,4.0,3.0,2168.0,Single family residential,1945.0,Active
+14 corrillo dr,San rafael,Marin-County,Ca,94903,1249999.0,56,54.0,3.0,2.0,1960.0,Single family residential,1950.0,Active
+32 spinosa way,Novato,Marin-County,Ca,94945,1098000.0,11,23.0,3.0,2.5,2138.0,Single family residential,1984.0,Active
+13 buccaneer ct,Corte madera,Marin-County,Ca,94925,1695000.0,41,24.0,3.0,2.5,1584.0,Single family residential,1962.0,Active
+112 posada del sol,Novato,Marin-County,Ca,94949,599000.0,46,34.0,2.0,2.0,1131.0,Condo,1985.0,Active
+10 professional center pkwy #28,San rafael,Marin-County,Ca,94903,599500.0,67,39.0,2.0,1.5,1107.0,Townhouse,1971.0,Active
+19 lagoon rd,San rafael,Marin-County,Ca,94901,2987000.0,6,34.0,4.0,3.5,2978.0,Single family residential,1971.0,Active
+120 mariner green ct,Corte madera,Marin-County,Ca,94925,995000.0,45,26.0,3.0,2.5,1378.0,Townhouse,1966.0,Active
+49 creekside dr,San rafael,Marin-County,Ca,94903,1995000.0,2,18.0,4.0,2.5,2497.0,Single family residential,1994.0,Active
+Undisclosed address,San rafael,Marin-County,Ca,94901,2690622.0,17,29.0,4.0,4.0,3220.0,Single family residential,2022.0,Active
+15 acacia rd,Fairfax,Marin-County,Ca,94930,1695000.0,71,49.0,3.0,3.5,2446.0,Single family residential,2022.0,Active
+178 pelican ln,Novato,Marin-County,Ca,94949,820000.0,15,17.0,2.0,2.5,1674.0,Condo,1990.0,Active
+350 montezuma ave,Forest knolls,Marin-County,Ca,94933,335000.0,13,15.0,2.0,2.0,1222.0,Single family residential,1924.0,Active
+309 verandah ave #5,Novato,Marin-County,Ca,94945,883457.0,6,24.0,3.0,3.0,1600.0,Condo,2022.0,Active
+21 bracken ct,San rafael,Marin-County,Ca,94901,3225000.0,6,29.0,4.0,3.0,4160.0,Single family residential,1988.0,Active
+43 portsmouth dr,Novato,Marin-County,Ca,94949,1500000.0,35,44.0,4.0,4.5,3126.0,Single family residential,2003.0,Active
+600 deer valley rd unit 2k,San rafael,Marin-County,Ca,94903,845000.0,18,7.0,2.0,2.0,1285.0,Condo,1991.0,Active
+100 thorndale dr #206,San rafael,Marin-County,Ca,94903,220000.0,38,26.0,1.0,1.0,660.0,Condo,1985.0,Active-reo
+25 fairway dr,Novato,Marin-County,Ca,94949,2499000.0,37,38.0,4.0,3.0,2512.0,Single family residential,1963.0,Active
+25 tradewind psge,Corte madera,Marin-County,Ca,94925,1888000.0,23,52.0,3.0,2.0,1855.0,Single family residential,1961.0,Active
+63 briarwood dr,San rafael,Marin-County,Ca,94901,1695000.0,7,14.0,4.0,2.5,1849.0,Single family residential,1969.0,Active
+45 inverness way,Inverness,Marin-County,Ca,94937,1350000.0,45,29.0,2.0,1.5,970.0,Single family residential,1988.0,Active
+90 upper briar rd,Kentfield,Marin-County,Ca,94904,1986000.0,30,23.0,4.0,2.0,2196.0,Single family residential,1948.0,Active
+270 channing way #16,San rafael,Marin-County,Ca,94903,645000.0,35,12.0,2.0,2.0,1377.0,Condo,1989.0,Active
+249 marin valley dr,Novato,Marin-County,Ca,94949,379000.0,49,38.0,1.0,1.0,817.0,Condo,1978.0,Active
+158 el condor ct,San rafael,Marin-County,Ca,94903,995000.0,45,31.0,3.0,2.5,1942.0,Townhouse,1974.0,Active
+353 hazel ave,Mill valley,Marin-County,Ca,94941,2695000.0,14,23.0,4.0,3.5,3484.0,Single family residential,1962.0,Active
+65 via barranca,Greenbrae,Marin-County,Ca,94904,2595000.0,37,55.0,5.0,3.0,3290.0,Single family residential,1962.0,Active
+642 verandah court novato,Novato,Marin-County,Ca,94945,899938.0,6,24.0,3.0,3.0,1600.0,Townhouse,2022.0,Active
+153 yolo st,Corte madera,Marin-County,Ca,94925,1790000.0,44,70.0,3.0,2.0,1800.0,Single family residential,1965.0,Active
+412 wood hollow dr,Novato,Marin-County,Ca,94945,1388000.0,2,18.0,4.0,2.5,2644.0,Single family residential,1989.0,Active
+582 montecillo rd,San rafael,Marin-County,Ca,94903,1295000.0,69,43.0,3.0,2.0,1526.0,Single family residential,1961.0,Active
+100 thorndale dr #315,San rafael,Marin-County,Ca,94903,395000.0,38,26.0,2.0,2.0,1234.0,Condo,1985.0,Active
+10 juanita ct,Novato,Marin-County,Ca,94945,1549000.0,47,46.0,4.0,2.0,2160.0,Single family residential,1965.0,Active
+60 - 62 ridge ave,San rafael,Marin-County,Ca,94901,935000.0,69,46.0,2.0,1.0,1998.0,Multi-family (2-4 unit),1947.0,Active
+50 hector ln,Novato,Marin-County,Ca,94949,480000.0,74,65.0,2.0,1.0,900.0,Condo,1986.0,Active
+580 arlington cir,Novato,Marin-County,Ca,94947,997000.0,27,14.0,3.0,2.0,1692.0,Single family residential,1956.0,Active
+7 werner ct,Novato,Marin-County,Ca,94947,1349000.0,42,18.0,5.0,3.5,2084.0,Single family residential,1988.0,Active
+105 santa rosa ave,Sausalito,Marin-County,Ca,94965,2698000.0,83,42.0,3.0,2.5,2195.0,Single family residential,1968.0,Active
+106 union st,San rafael,Marin-County,Ca,94901,2349000.0,90,71.0,6.0,3.5,3516.0,Multi-family (5+ unit),1927.0,Active
+15 kona ln,Dillon beach,Marin-County,Ca,94929,1650000.0,3,3.0,3.0,2.0,2244.0,Single family residential,1990.0,Active
+102 marinero cir,Tiburon,Marin-County,Ca,94920,799000.0,23,35.0,2.0,1.0,1008.0,Condo,1974.0,Active
+100 thorndale dr #256,San rafael,Marin-County,Ca,94903,150000.0,38,26.0,1.0,1.0,660.0,Condo,1985.0,Active
+109 eucalyptus knoll st,Mill valley,Marin-County,Ca,94941,1699000.0,45,72.0,3.0,2.5,2304.0,Condo,1987.0,Active
+4 west pier,Sausalito,Marin-County,Ca,94965,935000.0,63,28.0,2.0,2.0,1180.0,Mobile/manufactured home,1979.0,Active
+7 drakes cove rd,Larkspur,Marin-County,Ca,94939,2750000.0,30,36.0,3.0,3.5,3018.0,Single family residential,2009.0,Active
+357 rose ave,Mill valley,Marin-County,Ca,94941,3195777.0,19,12.0,4.0,3.5,3915.0,Single family residential,2011.0,Active
+72 portsmouth dr,Novato,Marin-County,Ca,94949,1399000.0,32,16.0,4.0,2.5,3090.0,Single family residential,2003.0,Active
+7 homestead blvd,Mill valley,Marin-County,Ca,94941,1299000.0,58,60.0,4.0,2.0,1800.0,Single family residential,1955.0,Active
+1628 5th ave #203,San rafael,Marin-County,Ca,94901,1250000.0,81,64.0,2.0,2.0,1329.0,Condo,2022.0,Active
+1199 leafwood hts,Novato,Marin-County,Ca,94947,999000.0,27,25.0,3.0,2.0,1748.0,Single family residential,1956.0,Active
+45 oak rd,Bolinas,Marin-County,Ca,94924,3500000.0,8,21.0,3.0,3.0,2059.0,Single family residential,1939.0,Active
+621 via casitas,Greenbrae,Marin-County,Ca,94904,675888.0,41,51.0,2.0,2.0,954.0,Condo,1974.0,Active
+Undisclosed address,San rafael,Marin-County,Ca,94901,1999900.0,17,29.0,3.0,3.5,2127.0,Single family residential,2022.0,Active
